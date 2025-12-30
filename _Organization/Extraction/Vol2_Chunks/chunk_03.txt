@@ -1,0 +1,112 @@
+[CHUNK 03 - Lines 179-267 of SCS Vol. 2]
+[Content: Dark Weavers archetype creation, Showman expansion (Calculated Predator), Aerialist archetype, Physical Skills clarification, Hybrid System]
+[Source: C:\Users\Oyaji\Desktop\SCS\_Main Volume PDFs\txt_conversions\SCS Vol. 2.txt]
+
+---
+EXTRACTION PRIORITY:
+- Dark Weavers archetype FINALIZED
+- Aerialist archetype FINALIZED  
+- Physical skills: Legitimacy vs Believability distinction
+- Hybrid System for blending archetypes
+- Calculated Predator subtype (Orton, Triple H)
+---
+
+KEY CONTENT:
+
+## DARK WEAVERS ARCHETYPE (NEW - FINALIZED)
+Core Skills: Fluency, Believability, Psychology
+
+### Subtypes (5 total):
+1. Cult Leader - Bray Wyatt (Wyatt Family), Kevin Sullivan
+2. Cold Blood - Jake Roberts (serpent-type psychological assassin)
+3. Outcast - Raven, broken Darby Allin
+4. Broken Prophet - Waylon Mercy, dark Bray
+5. Dark Trickster - Joker Sting, dark Danhausen, early Edge
+
+Flavor: "They are architects of despair. Masters of broken dreams..."
+
+---
+
+## SHOWMAN NEW SUBTYPE: CALCULATED PREDATOR
+Cold, ruthless, psychology-driven Showmen who captivate through slow escalation, perfect timing, and sudden lethal strikes.
+Examples: Randy Orton (Apex Predator), Triple H (Cerebral Assassin), Jake Roberts (some phases), early Andrade
+
+### Showman Full List Now (17 subtypes):
+Charismatic Daredevil, Mastermind Showman, Larger-Than-Life Icon, Theatrical Trickster, Emotional Performer, Spectacle Warrior, Athletic Entertainer, Technical Showman, Lovable Dynamo, Arrogant Athlete, Gimmick Attraction, Reality Crossover Star, Muscle Showstopper, Broken Entertainer, Occupational Gimmick Worker, Pure Entertainer (renamed from Sports Entertainer), Calculated Predator
+
+---
+
+## AERIALIST ARCHETYPE (FINALIZED)
+Core Skills: Aerial (Very High), Athleticism (Very High), Psychology (Medium-High)
+
+### Subtypes (5 total):
+1. Daredevil Flyer - Jeff Hardy, Sabu, Jack Evans
+2. Calculated Flyer - Rey Mysterio (peak), Kota Ibushi, Ultimo Dragon
+3. Gritty Underdog Flyer - Spike Dudley, Fuego Del Sol, early Rey Jr.
+4. Elite Cruiserweight - Eddie Guerrero (1997-1998), PAC (prime), Dragon Kid
+5. Unorthodox Acrobat - Ricochet (early), El Phantasmo, Ninja Mack
+
+### Tags:
+- Pop Flight
+- Risk of Crash
+- Hope Spot Generator
+- Gravity Defier
+
+---
+
+## PHYSICAL SKILLS CLARIFICATION
+
+### Legitimacy vs Believability (CRITICAL DISTINCTION):
+- **Legitimacy** = How good in a REAL fight (shoot fighting ability)
+  - Examples: Minoru Suzuki (20), Brock Lesnar (20), CM Punk (low)
+  - Category: Pure Physical Attribute
+
+- **Believability** = How CONVINCING their performance is (acting/presence)
+  - Examples: Jake Roberts (20), The Miz (8-10), Hulk Hogan (high for style)
+  - Category: Performance/Acting Attribute
+
+### Final Core Skill Map:
+**Physical:** Power, Athleticism, Durability, Stamina, Legitimacy
+**Performance:** Aerial, Technique, Brawling, Basics, Psychology, Believability
+**Charisma/Promo:** Charisma, Fluency
+
+---
+
+## HYBRID SYSTEM (FINALIZED)
+
+### Structure:
+- **Primary Archetype** - Defines match engine defaults
+- **Secondary Archetype(s)** - Modify match behaviour/fan expectations
+- **Hybrid Subtype** - Specific subtype from another archetype
+- **Weighting** - Light or Heavy secondary influence
+
+### Examples:
+- Chris Benoit (prime): Fighting Spirit (Crashing Avalanche) + Junior Puroresu (Junior Bruiser)
+- Dynamite Kid (prime): Junior Puroresu (Tiger Style Junior) + Fighting Spirit (Shooter Spirit)
+- Randy Orton (early): Showman (Calculated Predator) + Heel Ace (Arrogant Monarch-lite)
+- Eddie Guerrero (peak): Technical Showman + Junior Puroresu (Lucharesu Hybrid)
+
+### Hybrid Tags:
+- Hybrid Warrior
+- Crossover Specialist
+- Late Bloomer
+- Style Shifter
+
+### Career Evolution Examples:
+- Bryan Danielson: Junior Puroresu → Fighting Spirit → King's Road touches → Showman elements
+- Kenny Omega: Junior Puroresu → Showman (Mastermind/Spectacle Warrior hybrid)
+- AJ Styles: Junior Puroresu (early) → Technical Showman (mid) → Fighting Spirit (late)
+
+---
+
+## TAG SYSTEM EXPANSION (Started)
+
+### Categories Identified:
+1. Physical Tags - How they move, fight, take damage
+2. Performance Tags - How they tell stories, engage crowd
+3. Character Tags - Gimmick and presentation tendencies
+4. Career Tags - How they age, evolve, rise/fall
+5. Backstage Tags - How they act behind scenes (politics, loyalty)
+6. Fan Perception Tags - How fans react outside match quality
+
+Detailed tag expansion continues in Chunk 04.

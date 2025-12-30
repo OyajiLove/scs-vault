@@ -1,0 +1,116 @@
+# VOL 2 CHUNK 10 (Lines 802-887)
+# EXTRACTION PRIORITY: Booking Engine Phase 1 Core, Promotion Philosophy Settings, Predictability & Stakes System
+
+## KEY SYSTEMS TO EXTRACT:
+
+### Booking Engine Phase 1 - Core Match Inputs (HIGH PRIORITY)
+
+**Core Inputs for Each Match:**
+| Input | Description |
+|-------|-------------|
+| Participants | Wrestlers, tag teams, managers, seconds, special refs |
+| Match Type | Singles, tag, ladder, cage, etc. (from match type database) |
+| Placement on Card | Opener, cool-down, semi-main, main, post-main |
+| Stakes | Title, grudge, tournament, contract, loser leaves, retirement, or none |
+| Intended Outcome | Who wins, how (pin, submission, countout, DQ), finish style |
+| Booking Intent | Why booked: elevate, cool down, extend feud, payoff, test chemistry |
+| Agenting / Flow Control | Pacing, layout, structure (player or semi-automated) |
+
+### Promotion Booking Philosophy Settings (HIGH PRIORITY)
+| Setting | Function |
+|---------|----------|
+| Match Importance Focus | Match quality, storyline continuation, or crowd energy |
+| Push Strategy | Parity (50/50), rocket push, slow burn, veteran protection, heat magnets |
+| Fan Type Targeting | Smart mark, casual, kids/family, nostalgia, violent/hardcore, comedy |
+| Booking Tone | Serious gritty realism, chaotic crash TV, meta-comedy, emotional legacy |
+| House Style Enforcement | How rigidly matches conform to in-universe style (All Japan, Lucha, NJPW) |
+
+Note: Context matters for finish interpretation
+- A dusty finish in WCW 1997? Sure.
+- Same in NOAH 2005? Nuclear backlash.
+
+### Post-Match Evaluation Layers
+| Layer | Evaluation |
+|-------|------------|
+| Chemistry | Prior matches, natural synergy, real-life beef, stylistic compatibility |
+| Card Placement Fit | Over-deliver in weak spot or under-deliver in hot one? |
+| Match Type Fit | Do workers belong in this gimmick? (Comedy guy in blood feud = penalty) |
+| Fan Reaction | Real heat, split chants, dead silence, derision |
+| Finish Quality | Predictable, exciting, emotional, abrupt, dusty, flat, cathartic, enraging |
+| Narrative Movement | Did match move story? Surprise fans? Pay off? Kill heat? Spark new? |
+
+### Outcome Effects Per Match
+| Effect | Impact |
+|--------|--------|
+| Match Rating | Fan response, critic rating, promotion prestige |
+| Worker Momentum | Short-term trajectory boost/drop |
+| Popularity Adjustment | Long-term fan connection shift |
+| Backstage Morale | Workers happy with finish/positioning or resentful |
+| Booking Memory Retention | Will crowd remember this? (Crowd Memory System) |
+| Scandal Risk Triggers | Violent, tasteless, dangerous bookings = potential backlash |
+
+### Segment Engine (Non-Match Booking)
+| Segment Type | Examples |
+|--------------|----------|
+| Promo | Live or pre-taped, in-ring or backstage |
+| Post-Match Angle | Beatdowns, betrayals, reconciliations, stare-downs |
+| Contract Signings / Brawls | Build big-match energy |
+| Returns / Debuts / Retirements | Surprise pops, emotional storytelling |
+| Fan Interactions / PR Events | Meet-and-greets, scandals, media comments |
+| Backstage Fights / Gossip | Seeds morale, scandal risk, political intrigue |
+
+All segments run on same logic as matches: placement, crowd energy, memory tracking, fallout, scandal risk
+
+### Predictability Pressure & Stakes Logic (MAJOR - HIGH PRIORITY)
+
+**Match Predictability Index:**
+| Description | Function |
+|-------------|----------|
+| System gauges outcome obviousness | Based on popularity, momentum, booking history, win streaks, feud direction, title placement |
+| High predictability = less buzz | Unless storytelling or performance flips expectation |
+| Low predictability = buzz spike | Adds emotional tension, fan engagement, speculation |
+
+**Stakes Weight Tracker:**
+| Stakes Type | Examples |
+|-------------|----------|
+| Title Match | Heavyweight belt, tag belts = high stakes default |
+| Career Impact | "Must win to earn shot," "Loser leaves town," proving match |
+| Reputation Stakes | Newcomer vs legend (Kikuchi vs Hansen), mentor vs student |
+| Moral Stakes | Feud blowoff, revenge, redemption, betrayal payoff |
+| Booking Risk | Both guys can't afford to lose = booking into a corner |
+| Announcer Highlight Multiplier | Commentary impacts crowd buy-in |
+
+**Booking Into a Corner Penalty System:**
+| Condition | Effect |
+|-----------|--------|
+| Both workers on win streaks or need rehab | High-risk match flagged |
+| Flat/cheap finish | Crowd backlash, feud derailment, fan trust erosion |
+| Protected loss earned emotionally | Fanbase may accept (noble effort framing) |
+
+"A loss can elevate — if you protect the soul of the performer."
+
+**Underdog Story Incentives:**
+| Feature | Description |
+|---------|-------------|
+| Crowd engagement in predictable match | If layout, emotion, and announcers frame correctly |
+| Boosts Feud Memory even in loss | If match is brutal, emotional, heroic |
+| Outcome less important than effort | Boosts buzz, credibility, future heat |
+
+"This is how you elevate without wins. This is how you build a crowd's hope."
+
+**System Locked:**
+- Predictability Index: How obvious is finish?
+- Stakes Weight: What actually matters?
+- Booking Corner Penalty: Did booker screw themselves?
+- Underdog Reward System: Losses that feel like wins
+- Announcer Boost: Commentary matters, saves, sells
+
+---
+
+## RAW CONTENT (Key Quotes):
+
+"Matches aren't just card filler. They're stories, statements, sparks, and sometimes scandals."
+
+"This isn't just 'who wins?' It's 'why should I care who wins — and what happens if I'm right?'"
+
+"Turn too often? Crowd dies. Turn perfectly? They carry it for life."

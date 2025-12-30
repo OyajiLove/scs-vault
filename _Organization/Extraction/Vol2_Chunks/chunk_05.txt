@@ -1,0 +1,99 @@
+# VOL 2 CHUNK 05 (Lines 357-445)
+# EXTRACTION PRIORITY: Fan Loyalty Resistance System, Career Arcs Framework, Scandal System Introduction
+
+## KEY SYSTEMS TO EXTRACT:
+
+### Career Arcs Framework (HIGH PRIORITY)
+Stages of wrestler life cycle:
+| Stage | Description |
+|-------|-------------|
+| Rookie Years | Low pop, basic traits (underdog, green, reckless, hungry) |
+| Breakout | Jump via miracle match, angle, or political openings |
+| Fame | Success pressures behavior, some humble, some monsters |
+| Physical Decline | Injuries, aging, loss of passion |
+| Crisis | Scandals, betrayals, being leapfrogged |
+| Reinvention | Adapt new personas or cling to old success |
+| Retirement Attempts | Some leave, some unretire ("One More Match") |
+| Legacy | Legends, bitter obscurity, or indie reinvention |
+
+Traits can evolve: Consummate Professional → Booking Narcissist if ego blooms
+Event triggers needed for: injury, scandal, betrayal, stage shifts
+
+### Fan Loyalty Resistance System (HIGH PRIORITY)
+Formula: Fan Resistance % = (Base Loyalty) + (Star Power Modifier) + (Promotion Size Modifier) – (Scandal Severity Modifier) – (Era Outrage Modifier)
+
+Fanbase Types & Scandal Tolerance:
+| Fanbase Type | Loyalty | Scandal Tolerance | Notes |
+|--------------|---------|-------------------|-------|
+| Hardcore Company Loyalists | Extremely high | High | Classic company zombies, lifers |
+| Indie Hardcore Fans | Medium | Very low | Turn on hypocrites fast |
+| Family-Friendly Fans | Medium-high | Very low | Children/drugs/abuse = instant kill |
+| Deathmatch Outlaw Fans | Low | Medium-high | Care about authenticity |
+| Lucha Traditionalists | High | Medium | Protect local icons longer |
+| Joshi Superfans | High | Low | Purity matters, betrayals devastating |
+| Edgy Attitude Era Types | Medium | Medium-high | Love antiheroes, tolerate bad behavior |
+
+### Scandal Shielding System (Intro - continued in Chunk 06-07)
+- Big stars and promotions survive scandals easier
+- Institutional loyalty/sickness mechanic
+- Era sensitivity: 70s-90s absorb easier than 00s+
+- Smaller promotions = catastrophic collapse faster
+- Fans are willing to ignore terrible deeds due to loyalty
+- Power brokers know and hide scandals internally
+
+Key Features:
+- Scandal Shielding: Cover up chances for major stars/promotions
+- Fanbase Loyalty Buffers: Backlash delayed/softened by loyalty
+- Era Sensitivity: Earlier eras absorb scandal easier
+- Promotion Size Risk: Indies collapse faster after exposure
+- Redemption Bias: High loyalty enables "From the Ashes" comebacks
+- Institutional Rot: Corruption bleeds into morale, perception, media relationships
+
+### Database Compilation Discussion
+- 440+ traits compiled but export issues
+- Three-column structure: Trait Name | Description | Category
+- Categories: Physical, In-Ring, Personality/Backstage, Career Trajectory, Promo/Media, Scandal, Booking/Promoter, Fan Perception, Special Skills, Deathmatch, Era-Specific
+
+---
+
+## RAW CONTENT (Key Excerpts):
+
+CAREER ARCS - How Workers' Lives Should Flow:
+Stage Description
+Rookie Years Low pop, basic traits dominate (underdog, green, reckless, hungry)
+Breakout Either through miracle match, angle, or political openings — jump up cards
+Fame Success pressures behavior — some stay humble, some become monsters
+Physical Decline Injuries, aging, loss of passion start creeping
+Crisis Scandals, locker room betrayals, being leapfrogged by new stars
+Reinvention Some adapt new personas; others cling desperately to old success
+Retirement Attempts Some truly leave, some unretire multiple times ("One More Match")
+Legacy Some become legends, others fade into bitter obscurity or reinvent indie careers
+
+Already in design (loose):
+- Traits can evolve (e.g., Consummate Professional → Booking Narcissist if ego blooms)
+- Injury, scandal, betrayal events trigger evolution
+- Heat, merch, fan support modulate dynamically over time
+
+Needed:
+- Clean event triggers (e.g., severe scandal triggers drop in pop/fan support unless protected)
+- Career arc randomizers (chance-based injury, political betrayals, push sabotage)
+
+Fan Loyalty Resistance Formula:
+Fan Resistance % = (Base Loyalty) + (Star Power Modifier) + (Promotion Size Modifier) – (Scandal Severity Modifier) – (Era Outrage Modifier)
+
+This % determines:
+- How fast backlash happens
+- How severe the pop/merch/sponsor drop is
+- Whether the scandal "sticks" permanently
+
+Example 1: Top Star in 1986 NWA (Mid-Size)
+Fan Type: Hardcore Territorial Loyalists
+Scandal: Cheating, bar fight, DUI
+Base Loyalty: 75% + Star Power: +10% + Promo Size: +5% - Scandal Severity: -10% - Era Outrage: -5%
+Result: 75% resistance = Minor damage, survives
+
+Example 2: Rising Indie Star in 2024 (Small)
+Fan Type: Indie Hardcore
+Scandal: Racist comments leak
+Base Loyalty: 30% + Star Power: +5% + Promo Size: +0% - Scandal Severity: -25% - Era Outrage: -20%
+Result: -10% resistance = Immediate collapse, fired

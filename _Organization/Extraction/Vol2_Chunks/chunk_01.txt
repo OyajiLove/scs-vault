@@ -1,0 +1,36 @@
+[CHUNK 01 - Lines 1-89 of SCS Vol. 2]
+[Content: Session continuity discussion, Embry promo style, Vol 1 archetype recap, Good Hand archetype development]
+[Source: C:\Users\Oyaji\Desktop\SCS\_Main Volume PDFs\txt_conversions\SCS Vol. 2.txt]
+
+---
+EXTRACTION PRIORITY:
+- Good Hand archetype (core skills, subtypes, tags)
+- Indie Darling archetype start
+- Flashy tag definition
+- Fighting Spirit archetype core
+- Match Presentation system (Straight Result / Highlights / Condensed Recap)
+---
+
+Full content available in source file. This chunk covers:
+1. Chat continuity discussion from Vol 1 to Vol 2
+2. Embry promo style update ("maaaaaan" verbal knife)
+3. Full archetype review from Vol 1
+4. Good Hand archetype development:
+   - Core Skills: Technique, Psychology, Basics
+   - Subtypes: Veteran Hand, Steady Craftsman, Workhorse Specialist
+   - Tags: Professional, Ring Glue, Occasional Bone, Backbone
+5. Indie Darling archetype start:
+   - Core Skills: Aerial (high), Charisma (medium), Basics (low-medium), Psychology (low-medium)
+   - Subtypes: Spot Monkey, Flashy Technician, Cult Favourite, Daredevil Scrapper, Technical Virtuoso
+   - Tags: Flashy (NEW - defined as tag not skill)
+6. Fighting Spirit archetype development:
+   - Core Skills: Charisma, Toughness/Durability, Believability
+   - Subtypes: Moeru Toukon, Crashing Avalanche, Violent Mat Veteran, Shooter Spirit, Revolutionary Spirit, Openweight Bruiser, Emperor of Grit, Golden Boy, Adopted Son, Swagger King
+   - Tags: Never Say Die, Spirit Bomb, Pressure Cooker
+7. Match DNA concept (Fighting Spirit vs King's Road differences)
+8. Match Presentation system decision:
+   - Straight Up Result (default fast)
+   - Result + Highlights (default immersive)
+   - Condensed Storyline Recap (optional toggle)
+   - Full PBP (way down the road)
+9. King's Road archetype start

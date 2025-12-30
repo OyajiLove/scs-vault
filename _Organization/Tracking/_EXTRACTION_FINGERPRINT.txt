@@ -1,0 +1,1627 @@
+# VOL 1 EXTRACTION FINGERPRINT
+# Purpose: Quick Ctrl+F reference to check if concept already captured
+# Source: Vol 1 Extraction Report (187 items across 10 sections)
+# Updated: 2024-12-23 (CORRECTED - item numbers now match extraction report)
+
+## === EXTRACTION REPORT SECTION MAPPING ===
+# Section A: Worker Skills (6 items, #1-6) - VERIFIED
+# Section B: Archetypes (23 items, #7-29) - VERIFIED  
+# Section C: Additional Mechanics (2 items, #30-31) - CORRECTED
+# Section D: Booking & Simulation (11 items, #32-42) - CORRECTED
+# Section E: Half-Baked Ideas (37 items, HB-1 to HB-37) - VERIFIED
+# Section F: Final Sweep (11 items, #43-53) - CORRECTED
+# Section G: Deep Sweep (53 items, #54-106) - CORRECTED
+# Section H: Major Systems (12 items, #107-118) - VERIFIED
+# Section I: Extended Systems (19 items, #119-137) - VERIFIED
+# Section J: Final Sweep Systems (13 items, #138-150) - VERIFIED
+# Section K: Chunk 02-03 Extraction (12 items, #151-162) - VERIFIED
+# Section L: Chunk 04 Extraction (11 items, #163-173) - VERIFIED
+# Section M: Chunk 05 Extraction (18 items, #174-191) - VERIFIED
+# Section N: Chunk 06 Extraction (7 items, #192-198) - VERIFIED
+# Section O: Chunk 07 Extraction (16 items, #199-214) - VERIFIED
+# Section P: Chunk 08 Extraction (18 items, #215-232) - VERIFIED
+# Section Q: Chunk 09-10 Extraction (38 items, #233-270, HB-42-44) - VERIFIED
+# TOTAL: 311 items (270 numbered + 41 HB)
+
+## === CORRECTION NOTES (2024-12-23) ===
+# Previous fingerprint had incorrect item numbers for Sections C-G
+# Numbers now match extraction report's actual ## N. headers
+# Section C reduced from 11 claimed items to 2 actual explicit items
+# Remaining "Section C concepts" are embedded in other sections or descriptive text
+
+---
+
+## SECTION A: WORKER SKILLS (Items 1-6)
+# 1. Entertainment Attribute Calibrations
+# 2. The Rock 2000 (Peak) - Maximum Calibration
+# 3. Final Master Worker Skill Chart
+# 4. Worker Bio Section
+# 5. Stiffness Tag
+# 6. Overness System
+
+### Physical Attributes
+Strength, Stamina, Agility, Durability, Legitimacy
+
+### Mental Attributes
+Focus, Composure, Resilience, Adaptability (Mental), Consistency
+
+### Entertainment Attributes
+Charisma, Believability, Promo Skill, Menace, Sex Appeal
+
+### Bell-to-Bell Attributes
+Technical Skill, Brawling Skill, Aerial Skill, Hardcore/Plunder Skill
+Psychology, Selling, Adaptability (In-Ring), Tag Team Skill
+
+### Hidden/Other
+Drive, Self-Awareness, Ego, Match Consistency, Variance Potential, Era Adaptability
+
+### Bio Fields
+Height, Weight, Body Type, Debut Year, Nationality/Region, Primary Style
+Body Types: Lean, Thick, Soft, Ripped, Giant, Stringy, Chiseled, Bulky, Lanky, Heavyset
+
+### Calibration Examples (with numeric values in extraction report)
+Vader (17/19/13/20/2), Sid (18/19/9/20/14), Lex Luger (15/10/9/15/18)
+Scott Steiner BPP (19/18/7/19/15), Bret Hart (16/19/16/11/16)
+Misawa (13/19/7/9/11), Jumbo Tsuruta (16/18/11/14/8)
+Antonio Inoki (20/20/17/13/14), El Hijo del Santo (16/18/11/7/14)
+Stone Cold 1998 (20/20/18/17/13), John Cena 2013 (19/12/15-16/13/18)
+The Rock 2000 Peak (20/20/20/15/20), Eric Embry
+
+### Design Insights
+"Charisma ≠ Flamboyance" - Bret, Misawa, Santo had quiet charisma
+"Menace Must Be Mythic" - Vader, Sid, Steiner need 19-20 Menace
+"Promo Skill ≠ Connection" - Sid, Steiner connected despite "bad" technical promos
+"Sex Appeal Is Market-Specific" - Bret huge with women, Vader 2, Rock 20
+"Star Quality is a dog shit stat" - Use composite Draw Power instead
+
+### Overness System Details
+Scale: 0-100 (not 20-point)
+Regional Tracking per territory
+National/World Average auto-calculated
+Hidden Reputation tracking
+Soft Caps based on charisma, believability, cultural fit
+Overness Momentum (climbing/sliding)
+Fan Type Reaction Modifiers (hardcore, casual, regional)
+
+---
+
+## SECTION B: ARCHETYPES (Items 7-29, 23 total)
+# 7. Technician
+# 8. High Flyer
+# 9. Brawler
+# 10. Stoic Ace
+# 11. Defiant Soul (NEW)
+# 12. Monster (Complete)
+# 13. Luchador (Split)
+# 14. Muga Technician
+# 15. Shady Heel Technician
+# 16. Shooter
+# 17. Hardcore
+# 18. Charismatic Entertainer
+# 19. Giant
+# 20. Heroic Babyface
+# 21. Pure Heel
+# 22. Tweener
+# 23. Heel Ace
+# 24. Travelling Heel
+# 25. Territory Lifer/Journeyman
+# 26. Jobber
+# 27. Freak Show Attraction
+# 28. Junior Puroresu
+# 29. Storyteller
+
+### Technician Subtypes
+Pure Technician, Fire Technician, Submission Specialist, Chain Wrestler
+Technical Storyteller, Heel Ace Technician
+
+### High Flyer Ranges
+Aerial Skill 14-20, Agility 14-20, Stamina 8-18, Technical 5-14
+Power 2-8, Durability 8-16, Menace 2-12, Charisma 8-18
+Selling 10-20, Psychology 8-18, Believability 8-16
+
+### Brawler Subtypes
+Dirty Brawler, Heroic Brawler, Technical Brawler
+Psychotic Brawler, Hardcore Brawler, Wildman Brawler
+Quote: "If you don't feel like you could beat a man's ass in a parking lot, you aren't a Brawler"
+
+### Stoic Ace Subtypes
+Warrior Saint, Stern Frontliner
+Note: Kawada + Hokuto are NOT Stoic Aces, they are Defiant Soul
+
+### Defiant Soul (NEW archetype)
+Iron Rebel (Kawada), Tragic Survivor (Hokuto)
+Quote: "I will fight anyway. Because even if I lose, my struggle itself is proof that I lived"
+Tag: Beauty In Struggle
+
+### Monster
+Subtypes: Juggernaut, Athletic Monster, Sadistic Monster, Tragic Monster, Shindy Monster
+Lifecycle: Young Hungry, Veteran, Broken, Coasting, Monster Survivor
+Menace 17-20 (Elite), 13-17 (Shindy)
+
+### Luchador Split
+Técnico: Aerial Marvel, Roughneck Hero, Larger-Than-Life Showman, Masked Icon, Technical Virtuoso, Underdog Warrior
+Rudo: Street Brawler, Rudo Technico, Vicious Rulebreaker, Monster Heel, Charismatic Antagonist, Cult Leader
+
+### Muga Technician
+Pure Muga Practitioner, Dragon Showman
+
+### Shady Heel Technician
+Sadist Stretcher, Villainous Showman, Master of Torment
+
+### Shooter
+Catch Wrestling, MMA Crossover, Strong Style, Suplex Shooter, Shoot-Style Purist
+
+### Hardcore
+Icon, Daredevil, Garbage Brawler, Technical Hybrid, Violent Psychopath
+
+### Charismatic Entertainer
+Face of Company, Folk Hero, Charismatic Heel, Showman Hybrid, Transcendent Crossover
+
+### Giant
+Athletic Giant, Ogre Giant, Charismatic Giant, Monster Giant
+Gentle Giant, Silent Enforcer Giant, Technical Giant
+
+### Heroic Babyface
+Pure White Meat, Gritty Battler, Underdog Ace, Charismatic Hope Bringer
+Reluctant Hero, Fighting Champion, Golden Boy, Blue Collar Hero, Technical Hero
+
+### Pure Heel
+Arrogant Technician, Sadistic Brawler, Methodical Champion, Snake Oil Talker
+
+### Tweener
+Reluctant Heel, Reluctant Face, Chaotic Neutral
+Self-Interested Opportunist, Antihero, Silent Tweener
+
+### Heel Ace
+Arrogant Champion, Silent Monster, Cerebral Assassin
+Charismatic Dictator, Ruthless Shooter
+
+### Other Archetypes
+Travelling Heel (Champion subtype, Monster subtype)
+Territory Lifer/Journeyman (Emotional Storyteller subtype)
+Jobber (Ham and Egger subtype)
+Freak Show Attraction
+Junior Puroresu (Phoenix Spirit, Tiger Style, Junior Bruiser, Junior Technician, Junior Dickhead, Lucharesu Hybrid, Junior Ace)
+Storyteller (Hybrid Layer concept)
+
+---
+
+## SECTION C: ADDITIONAL MECHANICS (Items 30-31, 2 explicit items)
+# 30. Lucha Libre Booking Culture
+# 31. Eric Embry Calibration Example
+
+### Lucha Booking Mechanics
+Family Protection Tag, No Yob Clause, Regional Loyalty, Mask Loss Sensitivity
+Booking Negotiation Engine for mask matches
+
+### Embry Calibration (Full stat example for Territory Lifer archetype)
+Physical: Athleticism 7, Power 8, Stamina 14, Durability 16, Legitimacy 5
+Mental: Psychology 18, Focus 16, Consistency 17, Adaptability 13, Drive 18
+Entertainment: Charisma 15, Believability 20, Mic Skills 13, Sex Appeal 5, Menace 14
+Bell-to-Bell: Technical 12, Brawling 16, Psychology 18, Selling 17, Safety 13
+
+### Related Concepts (embedded in descriptions, not numbered items)
+Tag Team Booking Logic (see Section I #129)
+Safety/Danger Worker System (see Tags)
+Era Adaptability Mechanics (see #35 Era-Sensitive Fan Logic)
+Stiffness Regional Reception (see #5 Stiffness Tag)
+Worker Potential Ceiling System (see Section G)
+Growth/Decline Curves (see #38 Drive/Goal Shift)
+Hidden Stats Visibility Rules (see Hidden Personality bible)
+Regional Overness Tracking (see #6 Overness System)
+
+---
+
+## SECTION D: BOOKING & SIMULATION (Items 32-42, 11 total)
+# 32. Cumulative Fatigue System
+# 33. Push Organicity Score
+# 34. Tournament Burnout Tracker
+# 35. Era-Sensitive Fan Logic
+# 36. Gimmick Fit Formula
+# 37. Title Run Decay Curve
+# 38. Drive/Goal Shift System
+# 39. Body Type System
+# 40. Loss-Based Character Building
+# 41. Booking Pattern Recognition
+# 42. Monster Aura Generation
+
+### Cumulative Fatigue System
+Post-Match Stamina Penalty based on length, stiffness, bumps, blood
+After 8-10 title defenses, workers degrade without rest
+Ironmen (Misawa, Kobashi) recover better
+"Tournaments organically create legends and tragic heroes"
+
+### Push Organicity Score / Push Authenticity
+Fans prefer pushes that feel earned
+Force-pushing midcarders to main events risks rejection
+"X-Pac Heat" mechanic for undeserved pushes
+Era-sensitive: Pre-90s forgiving, 2000s+ highly critical
+"MAKE ROMAN LOOK STRONG" type leaks affect perception
+
+### Tournament Burnout Tracker
+Spamming tournaments = fan disinterest, locker room fatigue
+Cultural exception: Tournament-heavy cultures (G1) have higher tolerance
+
+### Era-Sensitive Fan Logic
+1985: Kayfabe, in-ring toughness
+2025: Real-life character, authenticity, social media presence
+Scandal impact varies by era (70s squashable, 2020s instant bomb)
+
+### Gimmick Fit Formula (LOCKED)
+Effective Believability = (Base Believability × Gimmick Fit Modifier) + Random Emotion Surge
+85%+ Perfect: +15% Believability
+60-84% Good: No bonus/penalty
+40-59% Poor: -10% Believability
+<40% Disaster: -20% + audience ridicule risk
+Example: Steiner White Meat (40%) vs BPP (95%)
+
+### Title Run Decay Curve
+"The chase is always easier than the reign"
+Momentum of Chase Buff: +10 during chase
+Weight of Crown Debuff: Small automatic decay monthly as champion
+Prevention: New challengers, instant classics, booking assistant warnings
+Babyface champions decay faster, heel champions decay slower
+
+### Drive/Goal Shift System
+High Drive: Constantly improves, fights through setbacks
+Moderate: Plateaus unless incentivized
+Low: Coasts after fame
+Very Low: Collapses under success ("could have been" guys)
+Nakamura example: Wins title, drive declines, matches get lazier
+Crowd and locker room detect "mailing it in"
+
+### Body Type System
+Types: Lean, Thick, Soft, Ripped, Giant, Stringy
+Impacts: Monster Aura eligibility, match booking logic, visual dominance
+Super heavyweight = more joint/hip damage over time
+
+### Loss-Based Character Building
+Strong psychology in defeat builds crowd empathy
+Desperation/near misses = popularity UP not down
+Gutsy fighting spirit triggers small bonuses
+Loss Momentum Cooldown: Only so many before fans expect payoff
+Legendary Loss Status: Career-defining even if lost (Hardy vs Taker)
+
+### Booking Pattern Recognition
+Repeating same show structure = fan engagement drops
+Tony Khan repetitive layouts example
+
+### Monster Aura Generation
+Menace 16+ (core driver)
+Size/Power not laughably low (unless "crazy unhinged" aura)
+Charisma/Believability moderate support
+Auto-generated based on stats OR weighted chance with compensating tags
+Dynamic: Bulks up/works stiffer = gains aura; loses size/exposed = loses aura
+
+---
+
+## SECTION E: HALF-BAKED IDEAS (37 items, HB-1 to HB-37)
+
+### Dream Features (HB-1 to HB-5)
+Full 3D Match Visualization, FPW++/TEW+++ Hybrid Engine
+AI-Generated Cutscenes, Voice Cloning & Commentary
+Multi-Sport Sim Universe (Basketball, Football sims)
+
+### Half-Baked Mechanics (HB-6 to HB-15)
+Multiplayer Draft Mode, Talent Tampering & Poaching
+Press Conferences, Booker Personality Rating
+Cultural Gravity, Fighting Spirit Meter
+Venue Weather System, Scandals by Era
+Push Authenticity (Media Leaks), Worker Self-Improvement Arcs
+
+### Tech/Platform Ideas (HB-16 to HB-21)
+Mod Platform (.wres/.arena/.logic formats)
+World Builder Tool, Engine Choices (Unity/Godot)
+Portrait Evolution System, Sprite Generation Pipeline
+Dev Timeline (2025-2032 predictions)
+
+### Feature Sparks (HB-22 to HB-34)
+Locker Room Leaders, Cliques System
+Agent/Trainer Influence, CPU Fed AI Personalities
+Interpromotional Relationships, Body Damage Tracking
+Production Budget, Crowd Density Visualization
+Custom Ring/Stage Elements, Region-Specific Era Logic
+Newsletter/Dirtsheet Export, Match Types Wizard
+Relationship Sharing Systems, Scenario Test Mode
+Historical Mods (ECW 1995, AJPW 1993, WCW 2000)
+What-If Scenarios ("What if Owen never dies")
+
+### Probably Dead (HB-35 to HB-37)
+Three-Way Promo Split (may be consolidated)
+Legitimacy as Visible Stat (may be tags now)
+Fourth Mental Attribute (TBD placeholder)
+
+---
+
+## SECTION F: FINAL SWEEP (Items 43-53, 11 total)
+# 43. Composite Draw Power
+# 44. Worker Refusal/Resistance Mechanics
+# 45. Lifestyle Tracker (Aging Modifier)
+# 46. Injury Culture by Era
+# 47. Style Synergy Matrix
+# 48. Match Report Emotional Language
+# 49. Booking Philosophy Tags
+# 50. Core Worker Traits
+# 51. Era Evolution Sliders
+# 52. Venue Atmosphere Tiers
+# 53. Epic Match Capability
+
+### Composite Draw Power (Replaces Star Quality)
+"Star Quality is a dog shit stat"
+Draw Power = Momentum + Sex Appeal/Menace + Charisma + Promo Ability + Reputation
+Different promotions prioritize different components
+
+### Worker Refusal/Resistance Mechanics
+"Austin refuses to job clean under 15 minutes unless morale 90+"
+Turn Resistance, Push Resistance, Internal Resistance Threshold
+Gimmick Pressure System: "Steve Austin hates Ringmaster, demands change"
+Creative Control negotiation based on overness
+
+### Lifestyle Tracker (Aging Modifier)
+Drinkers/Smokers: Deeper lines, rougher aging
+"Hard liver" personalities: Faster decline
+Natural freaks: Slower aging (genetic)
+Wrestling style affects visual wear
+
+### Injury Culture by Era (World Builder Setting)
+70s: Everyone works hurt, injuries hidden
+90s: Car crash TV, lots of long-term injuries
+Modern: Better rehab, more delicate bodies
+
+### Style Synergy Matrix
+Workers mesh differently
+Style Drift happens gradually based on booking success, fanbase shifts
+
+### Match Report Emotional Language
+Japanese Epic style: Selling, Fighting Spirit, Struggle
+American Spectacle style: Moves, Moments, Outcomes
+
+### Booking Philosophy Tags
+Per-promotion philosophy markers
+
+### Core Worker Traits
+System for essential personality/performance markers
+
+### Era Evolution Sliders
+Kayfabe Strength, Workrate Revolution, Promo Evolution settings
+
+### Venue Atmosphere Tiers
+Small Grungy Gym, 1980s Civic Center, 1990s Bingo Hall
+2010s LED Arena, Outdoor Stadium Setup
+
+### Epic Match Capability
+Some workers secretly capable of legendary matches if triggered
+Emotional feuds, big stakes, ideal opponents unlock potential
+
+---
+
+## SECTION G: DEEP SWEEP (Items 54-106, 53 total)
+
+### Core Systems (54-70)
+Breakout Event Mechanic, Breakout Performance Triggers
+Potential Ceiling System, Worker Potential
+Rub Mechanics (getting over via association)
+Agent/Scouting Report System, Road Agent Reports
+Fog of War/Hidden Information, Scouting System
+Push Authenticity Leak System ("MAKE ROMAN LOOK STRONG")
+Title Run Decay Curve expansion, Cumulative Title Run Fatigue
+Match Consistency vs Variance Potential
+
+### Style & Era Systems (71-85)
+Style Synergy Matrix expansion, Style Drift mechanics
+Era Adaptability Stat, Era-Specific AI Behavior
+Cultural Gravity deep implementation
+Era Evolution Sliders detail
+Fan Culture Per Region implementation
+
+### Career Systems (86-100)
+Gutsy Loss/Legendary Match Markers, Legacy/Legendary Status
+Booking Pattern Detection expansion
+Locker Room Leaders, Locker Room Faction Formation
+Self-Driven Growth System, Worker Self-Improvement Arcs
+Logical Growth Filters (believable improvement only)
+Goal Shift System expansion, Drive/Goal changes over career
+Lifestyle Tracker expansion (Aging Modifier), Aging/Career Arcs
+Injury Culture by Era expansion
+
+### Support Systems (101-106)
+Outdoor Show Ring Protection, Weather System detail
+Tag Team Package Deal Mechanics, Tag Team System
+Booking Philosophy Tags expansion, Promotion Philosophy
+Core Worker Traits expansion
+Match Report Emotional Language detail
+
+---
+
+## SECTION H: MAJOR SYSTEMS (Items 107-118, 12 total)
+# 107. Promotion Exploitation Dynamics
+# 108. Buyouts / Hostile Takeovers
+# 109. Scandal Cover-Up / Star Protection Logic
+# 110. PR Fallout System
+# 111. Locker Room Faction Formation
+# 112. Breakout Performance Triggers
+# 113. Era-Specific AI Behavior
+# 114. Draft Screen / War Room Interface
+# 115. Cultural Gravity & Style Drift
+# 116. Goal Shift System
+# 117. Worker Coasting / Mail It In Mode
+# 118. Gimmick Pressure System
+
+### Promotion Exploitation Dynamics
+"Big dog abuses little dog" - NJPW to partners, WWF to British indies
+Relationship types: Talent Trade, Sharing Pacts, Booking Partnerships, Co-Promotions, Developmental
+Disparity matters: Bigger = dominates terms
+Leverage factors: Size, Prestige, Promoter Personality, Talent Star Power
+Poaching System: Bigger companies scout, tamper, offer deals
+Breaking relationships leads to long-term enmity
+
+### Buyouts / Hostile Takeovers (NWA-Style Politics)
+Board of Directors voting system
+Political Capital pool per promoter
+Argument System for title decisions (Talent Value, Business Case, Financial Backing, Legacy)
+Buyout mechanics: Big promotions buy up influence until federation collapses/reorganizes
+Performance expectations affect political standing
+
+### Scandal Cover-Up / Star Protection Logic
+Bigger star = more desperate to cover up
+Star Protection by level: Megastar (mountains moved), Main Eventer (strong cover-up), Midcarder (may protect), Low-card (thrown under bus)
+Cover-Up options: Quiet cover-up, Public punishment, Defend worker
+Era Sensitivity: 70s easy to squash, 2020s instant social media bomb
+
+### PR Fallout System
+Fan reaction based on scandal severity + management response
+Sponsor reactions: Pull money if tainted (post-90s)
+Worker stigma from scandal-associated companies
+Promoter personality affects scandal management
+
+### Locker Room Faction Formation
+Backstage factions with loyalty tracking
+Relationship types: Family, Friends/Allies, Romantic, Rivalry/Hatred, Loyalty (trainer/mentor)
+Strength scale: Shallow, Moderate, Deep
+Event-driven updates: Betrayals, helping injured friends, morale based on ally/enemy treatment
+Influence tags: Locker Room Leader, Clique Member, Shit-Stirrer
+
+### Breakout Performance Triggers
+Match exceeds expectations = hidden Career Trajectory Shift
+Baseline skills bump 5-10 points over 6 months
+Rub Mechanics: Big opponents can elevate you
+"Needs Rub" hidden trait
+Career Phases: Early Career, Mid Career Opportunity, Breakout Shift, Late Career Drift
+
+### Era-Specific AI Behavior
+"Loose Era AI" vs "Tight Era AI" settings
+CPU feds rise, fall, betray, panic, dominate organically
+Promoter Personality Types: Cutthroat, Pragmatic, Cowardly
+Omega in 1985 Mid-South example: Must adapt style or die on vine
+
+### Draft Screen / War Room Interface
+Mid-draft AI assistant for suggestions
+Prompts like "great heels for surfer sting", "future ace high flyers"
+War Room knows promotion style, suggests culturally appropriate picks
+Handicap System: Limit calls based on player knowledge
+Conflict Alerts for problematic workers
+
+### Cultural Gravity & Style Drift
+Each promotion has deep-seated Cultural Gravity pulling toward natural state
+NJPW example: 70/20/10 baseline (Strong Style/Storyline/Flashy)
+Prevents stupid swerves - NJPW won't suddenly become Crash TV
+Booker adaptability affects drift (some refuse to adapt like Vince)
+
+### Goal Shift System (Expanded)
+Once goals met, motivations mutate
+Post-title low Drive = shorter, safer, lazier matches
+Intervention (new challenge, heel turn) can revive motivation
+Effort visibility: Crowd/locker room detect "mailing it in"
+
+### Worker Coasting / Mail It In Mode
+Low consistency workers "phone it in" on minor shows
+Mentorship Revival Option: Locker room leaders can revive lazy workers
+Coasting Monster variation: High initial push, low drive, fades without protection
+
+### Gimmick Pressure System
+Workers with low Gimmick Fit + High Drive resist their gimmick
+May demand meetings, refuse angles, threaten to leave
+Ringmaster Austin example: Low believability + high drive/ego = forced change
+
+---
+
+## SECTION I: EXTENDED SYSTEMS (Items 119-137, 19 total)
+# 119. Dojo/Training System
+# 120. Road Agent Reports
+# 121. Match Calling Tags
+# 122. Weapon/Stipulation Mechanics
+# 123. Clique/Backstage Politics
+# 124. Social Media/Internet Age
+# 125. Card Position/Show Structure
+# 126. Body Type/Physique System
+# 127. Production/Entrance Mechanics
+# 128. Turn Mechanics/Alignment Subtypes
+# 129. Contract/Negotiation Mechanics
+# 130. Merchandise/Marketability Tags
+# 131. Title Prestige/Lineage
+# 132. Finisher Protection Mechanics
+# 133. Post-Career/Retirement Tags
+# 134. Scouting/Fog of War System
+# 135. Financial/Sponsorship Mechanics
+# 136. Promo/Segment Type System
+# 137. Injury System (Comprehensive)
+
+### Key Details
+
+**Dojo/Training System:**
+School reputation affects graduate style biases
+Hart Dungeon = Technical, CZW = Hardcore, Dragon Gate = Workrate
+Excursion system: Japan tours build psychology/grit
+
+**Road Agent Reports:**
+Chemistry discovery over time, Medical warnings
+Match layout suggestions during tournaments
+
+**Match Calling Tags:**
+Notorious Planner, Back Caller, In-Ring Caller, Thrives on Improvisation
+Era evolution: Traditionally in-ring, by 00s almost always in back
+
+**Weapon/Stipulation Mechanics:**
+Tables (breakable), Ladders (climb/dive logic), Chairs, Barbwire
+AI logic trees based on feud + high-risk traits
+
+**Social Media/Internet Age:**
+Era-sensitive scandal virality
+Worker tags: Heavy Social Media User, Shuns Social Media
+
+**Body Type/Physique System:**
+Genetic tags: Skinny Genes, Fat Genes, Body Positive, Fitness Fanatic
+Visual evolution with lifestyle, age, injury
+
+**Turn Mechanics/Alignment Subtypes:**
+Reluctant Heel, Reluctant Face, Chaotic Neutral, Self-Interested Opportunist, Antihero, Silent Tweener
+Hidden alignment points: Authority Respect, Violence Appetite, Progressiveness
+
+**Merchandise/Marketability Tags:**
+Marketing Nightmare, Unmarketable, Easily Marketable, Marketing Dream
+Temporary boosts: Hot New Catchphrase, Flavour of the Month, Groundswell of Support
+
+**Finisher Protection Mechanics:**
+Kick Out at 3.1, Demands Visual Dominance, Refuses Submission Losses
+Match report flavor for near-kickouts
+
+**Scouting/Fog of War System:**
+Era rules: Pre-90s heavy fog, Post-Internet more baseline info
+Scout assignment by region/promotion/archetype
+Visibility levels: No Knowledge → Basic → Partial Scout → Full Scout
+
+---
+
+## SECTION J: FINAL SWEEP SYSTEMS (Items 138-150, 13 total)
+# 138. Save/Load & Mod Support System
+# 139. Dynamic Events/News System
+# 140. Era Engine (Comprehensive)
+# 141. World Builder Tool
+# 142. Legacy/Legendary Status System
+# 143. Commentary/Broadcast System
+# 144. Attendance/Draw Power System
+# 145. Draft/Roster Management System
+# 146. Multiplayer/Online Modes
+# 147. Portrait Evolution System
+# 148. Outdoor Show/Weather System
+# 149. Era-Specific UI/News Presentation
+# 150. Venue/Arena Visualization System
+
+### Key Details
+
+**Save/Load & Mod Support:**
+.wres/.arena/.logic formats
+Steam Workshop meets Nexus Mods
+Scenario sharing, What-If modes
+Historical mods: ECW 1995, AJPW 1993, WCW 2000
+
+**Dynamic Events/News System:**
+Era-appropriate presentation (newsletter vs phone app)
+Observer-style reports
+Scandal spread by era (pre-90 local, 2010s+ viral)
+
+**Era Engine:**
+Kayfabe Strength, Deathmatch Era, Workrate Revolution, Promo Evolution
+Cultural sensitivity by region
+Psychology meter (spotfests die in 1980s NWA)
+
+**World Builder Tool:**
+Territory strengths, Fan culture, Financial ecosystem
+Injury culture settings, Match style popularity drift
+
+**Legacy/Legendary Status:**
+Legendary Loss Status (career-defining defeats)
+Dynasty System (18-year sustained excellence)
+Epic Match Capability unlocked by triggers
+
+**Commentary/Broadcast System:**
+AI-generated commentary knowing feuds/history
+Camera logic: Dynamic direction, zoom on big bumps
+Multiple view modes: Broadcast, GM suite, sideline, locker room
+
+**Attendance/Draw Power:**
+Composite Draw Power calculation
+Venue visual dynamics (empty seats visible, curtains)
+Low attendance hurts atmosphere
+
+**Multiplayer/Online Modes:**
+TEW+++ Online (turn-based async)
+Rollback Netcode, P2P/LAN, Self-Hosted, Cloud options
+Co-op booking options
+
+**Portrait Evolution:**
+Base portrait + layered overlays (scar, grey hair)
+Scar Tissue from blading history
+Gear Evolution based on personality
+
+**Outdoor Show/Weather:**
+Regional/seasonal weather checks
+Weather events: Rain, storms, heat warnings
+Ring protection options (scaffolding costs)
+
+**Era-Specific UI:**
+Pre-1995: Typewriter newsletter aesthetic
+Mid 90s-2000s: Early ugly website
+Present: Phone app newsfeed style
+
+**Venue/Arena Visualization:**
+Famous venue recreation (MSG, Korakuen, Arena Mexico)
+Ring/stage customization
+Dynamic crowd density
+
+---
+
+## TAGS MASTER LIST
+
+### Brawler Tags
+Stiff Worker, Barroom Tough, Bleeder, Loves the Crowd
+Slow Burn Seller, Never Say Die, Bruiser Aura
+
+### Stoic/Defiant Tags
+Iron Will, Beauty In Struggle
+
+### Shooter Tags
+Submission Machine, Real Fighter Aura, Short Fuse, Gritty Survivor
+
+### Hardcore Tags
+Bump Machine, Bloodthirsty, Hardcore Folk Hero, Dangerous Worker
+Deathmatch Specialist, High Pain Threshold
+
+### Entertainer Tags
+Promo God, Mainstream Appeal, Merch Machine, Visual Icon
+Golden Tongue, Audience Commander
+
+### Career/Lifestyle Tags
+Wanderer, Reliable Hand, Veteran Leader, Low Ambition
+Company Man, Versatile Worker, Durable Workhorse
+
+### Gimmick Tags
+Freak Show Attraction, Gimmick Heavy, Limited Worker, High Maintenance Costume
+
+### Contract Tags
+Family Protection Tag, No Yob Clause, Regional Loyalty, Mask Loss Sensitivity
+
+### Injury Tags
+Troublesome Neck/Back/Shoulder/Knee, History of Concussions
+Brittle Bones, Rubber Bones, Healing Factor, Scar Tissue
+
+### Post-Career Tags
+Future Booker, Future Manager, Future Personality
+Future Road Agent, Natural Trainer
+
+### Drive Tags
+Desperado, Heart's Not In It, Wrestling In The Blood
+Can't Stay Away, Unable To Wrestle Again
+
+### Marketability Tags
+Marketing Nightmare, Unmarketable, Easily Marketable, Marketing Dream
+Hot New Catchphrase, Flavour of the Month, Groundswell of Support
+
+### Match Calling Tags
+Notorious Planner, Back Caller, In-Ring Caller, Thrives on Improvisation
+
+### Physique Tags
+Skinny Genes, Fat Genes, Body Positive, Fitness Fanatic, Bodybuilder Mentality
+
+### Finisher Tags
+Kick Out at 3.1, Demands Visual Dominance, Refuses Submission Losses
+No-Sell Mentality, Demands Strong Post-Loss Angles
+
+---
+
+## KEY QUOTES/CONCEPTS
+"The chase is always easier than the reign"
+"If you don't feel like you could beat a man's ass in a parking lot"
+"The struggle must be felt, not told"
+"Fighting fate itself"
+"I will fight anyway. Because even if I lose, my struggle itself is proof that I lived"
+"Scouting + Agent Reports as the Player's Shield"
+"Tournaments organically create legends and tragic heroes without scripting"
+"Push Authenticity" / "MAKE ROMAN LOOK STRONG"
+"Gimmick Fit should matter but mostly reinforce by degrees"
+"Star Quality is a dog shit stat"
+"Big dog abuses little dog"
+"Workers are not static clay you shape"
+"Not because he just 'leveled up' RPG-style"
+
+---
+
+## WRESTLER EXAMPLES BY CATEGORY
+
+### Tag Teams
+Road Warriors, RNR Express, Steiners, Outsiders, Midnight Express
+
+### Transformation Examples
+DDP, Macho Man, Austin (Ringmaster to Austin), Roman Reigns
+
+### Modern Top Guys
+Omega, Okada, Nakamura, Hardy, Taker, Moxley
+
+### Japanese Legends
+Misawa, Kawada, Kobashi, Hokuto, Tenryu, Hansen, Vader
+Jumbo Tsuruta, Inoki, Fujinami, Takada
+
+### American Legends
+Flair, Bockwinkel, Race, Piper, Jake Roberts, Scott Hall
+Hogan, Rock, Cena, Dusty Rhodes, Von Erichs
+
+### Hardcore/Deathmatch
+Funk (Terry), Foley, Onita, Sabu, Dreamer, Darby Allin
+
+### Lucha
+Santo, Rey Jr., Blue Panther, Rush, L.A. Park
+
+### Juniors/Cruiserweights
+Liger, Ultimo Dragon, Hayabusa, Original Tiger Mask
+
+### Shooters
+Suzuki, Fujiwara, Takada, Shamrock, Sakuraba
+
+### Others
+Cornette, Abdullah, Brody, Andre, Big Show, Eric Embry
+
+---
+
+---
+
+## SECTION K: CHUNK EXTRACTION (Items 151-162)
+# Added from Chunk 02-03 line-by-line review
+
+### Chunk 02 Items (151-155)
+# 151. Draft Rights System for Package Deals
+# 152. Package Integrity Percentage
+# 153. Match Length Psychology Gate
+# 154. Non-Popup Narrative Feedback
+# 155. Design Quote: "The struggle must be felt, not told"
+
+### Chunk 03 Items (156-162)
+# 156. System Priority Pyramid
+# 157. "Default to Good Enough" Principle
+# 158. Coachability Attribute
+# 159. "Needs Rub" Hidden Trait
+# 160. Personal Priority Traits / Outside Interests
+# 161. Promo Style Tags
+# 162. Booker Adaptability Rating
+
+### Chunk 04 Items (163-173)
+# 163. Wear and Tear Evolution (WTE) System
+# 164. Art Style Toggle
+# 165. Modular Portrait Architecture
+# 166. Political Capital Resource
+# 167. Argument System for Title Decisions
+# 168. Cutthroat Expansion Mechanics (Vince '83 Mode)
+# 169. Talent Evaluation Skill
+# 170. Rubber Band Potential Model
+# 171. Shoot Fighting Ability (Backstage Stat)
+# 172. Career Injury Logs
+# 173. Wear and Tear Meter
+
+### Draft Rights System
+Drafting one tag member reserves right to draft partner next pick
+Forfeit = partner free agent + morale penalty
+Prevents double-dipping in multiplayer drafts
+"You should only get one pick at a time"
+
+### Package Integrity Percentage
+Numeric bond strength: Road Warriors 95%, Smoking Gunns 60%
+Higher = stronger splitting consequences
+Manager links also have integrity ratings (Cornette to Midnights)
+
+### Match Length Psychology Gate
+"Omega in Japan 30+ min vs USA 15 min TV hits different"
+TV Sprint (10-15 min) = limited psychology
+PPV Standard (15-25 min) = moderate story beats
+Epic Format (30-45+ min) = full fighting spirit, exhaustion arcs
+TV Match Optimization vs Epic Match Capability ratings
+
+### Non-Popup Narrative Feedback
+Replace gamey counters with organic dialogue
+"hey, this guy has lost valiantly 10 times in a row. it's stale."
+Penalties increase silently as you ignore
+Booking team/agents convey through natural dialogue
+
+### System Priority Pyramid
+Hierarchy: 1. Story First, 2. Worker Performance, 3. Chemistry, 4. Variance
+Chemistry is "spice, not the meal"
+Enhances stories, doesn't replace them
+"Protects the player's joy"
+
+### Default to Good Enough Principle
+"Two good workers should still have good matches by default"
+No random bad chemistry nonsense
+Only surface chemistry for notable positive OR disastrous cases
+
+### Coachability Attribute
+Distinct from Drive: how well worker listens, learns, absorbs training
+"Some workers train, listen, learn. Some don't."
+High Drive + Low Coachability = works hard but repeats mistakes
+
+### Needs Rub Hidden Trait
+Hidden flag: worker needs big opponent to elevate them
+DDP needed Savage; Kawada needed Misawa
+Triggers Rub Mechanics when matched with stars
+Workers may stall indefinitely without proper booking
+
+### Personal Priority Traits / Outside Interests
+Workers have non-wrestling passions competing with career
+Sid's softball example: "legit just fuck off and play softball"
+High Outside Interests may cause no-shows
+Fans may find it charming (cult status) or resent (momentum loss)
+Brock Lesnar hunting, workers with acting careers
+
+### Promo Style Tags
+Righteous Fury (Sid, Warrior, peak Cena)
+Dangerous Madman (Steiner, Terry Funk, Moxley)
+Smooth Operator (Flair, Rock, early Shawn)
+Snarky Wit (MJF, Punk, Heenan)
+Rugged Everyman (Dusty, Foley, Eddie Kingston)
+Book the KIND of promo, system interprets worker ability
+
+### Booker Adaptability Rating
+How bookers respond to crowd feedback
+High Adaptability (TK): pivots based on feedback, adjusts pushes
+Low Adaptability (Vince/Dusty): doubles down, ignores rejection
+"TK pivots a lot based on feedback, which is usually great"
+Stubborn bookers risk death spiral, fed reputation tanks
+
+---
+
+## SECTION M: CHUNK 05 EXTRACTION (Items 174-188 + HB-38)
+# Added from Chunk 05 line-by-line review (lines 509-635)
+
+### Chunk 05 Items (174-188)
+# 174. Wear and Tear Visibility Framework
+# 175. Medical Exam Trigger System
+# 176. Worker Medical Reaction Tags (Driven to Destruction, Fragile/Lazy, Loyalist, Bitter)
+# 177. Relationship Timeline System (Punk/Colt example)
+# 178. Kayfabe vs Real Relationship Separation
+# 179. Kohai/Sempai Loyalty Mechanics
+# 180. Personality Category Formal Lock (Professionalism, Ego, Temperament, Loyalty, Drive)
+# 181. Jobbing Willingness Formula
+# 182. Conditional Finish Protection Logic (Kick Out at 3.1 conditions)
+# 183. Match Dominance Rating Impact
+# 184. Entertainment Category Final Lock (Charisma, Believability, Promo Skill, Menace, Sex Appeal)
+# 185. Agility/Speed Consolidation Decision
+# 186. Size/Frame Composite System (Height, Weight, Body Type)
+# 187. Historical Database 1983 Starting Point
+# 188. Entertainment Calibration Locked Examples (Vader, Sid, Luger, Steiner, Bret, Misawa, Jumbo, Inoki, Santo, Cena 2013)
+
+### Chunk 05 Half-Baked
+# HB-38. 1996 HBK Entertainment Calibration (Partial - cuts off) - RESOLVED into #190
+
+### Post-Extraction Additions (#189-191)
+# 189. Range Stat Addition (Entertainment Category) - NEW STAT
+# 190. HBK 1996 Entertainment Calibration (Complete) - resolved from HB-38
+# 191. Updated Entertainment Calibrations with Range
+
+### Range Stat (NEW - Item #189)
+Definition: How broad a character swath a worker can convincingly cover
+Distinct from Believability (authenticity) - Range = dramatic versatility
+18-20: Transformative genius (Mick Foley)
+15-17: Very versatile (Rock, Jericho, Eddie)
+12-14: Solid range (HBK, Dusty, Sting)
+8-11: Limited but functional (Bret, Taker, Cena)
+4-7: Very narrow, one mode (Vader, Hansen, Goldberg)
+1-3: Virtually no range
+Key Insight: Low range isn't bad - Hansen/Vader didn't need it
+
+### Updated Entertainment Category (6 stats)
+Charisma, Believability, Promo Skill, Menace, Sex Appeal, Range
+
+### HBK 1996 Complete Calibration (#190)
+Charisma 18, Believability 15, Promo Skill 16, Menace 7, Sex Appeal 20, Range 14
+
+### Full Calibration Table with Range (#191)
+Vader: 17/19/13/20/2/5 | Sid: 18/19/9/20/14/6 | Luger: 15/10/9/15/18/7
+Steiner BPP: 19/18/7/19/15/8 | Bret: 16/19/14/11/16/10
+Misawa: 13/19/7/9/11/6 | Jumbo: 16/18/11/14/8/7 | Inoki: 20/20/17/13/14/12
+Santo: 16/18/11/7/14/9 | Cena 2013: 19/12/15-16/13/18/9
+HBK 1996: 18/15/16/7/20/14 | Mick Foley peak: 15/18/17/16/4/20
+
+### Wear and Tear Visibility Framework
+No hard numbers by default - surfaced naturally through:
+- Profile status: "Currently healthy" to "Severe long-term wear threatening career"
+- Match reports: "Worker X appeared visibly slower and favored his right knee"
+- Backstage reports: "Road Agent notes Worker Y is struggling to recover"
+- Optional medical exam: Deeper analysis in natural language
+- Commentary hints: Announcers noting physical issues
+
+### Medical Exam System
+Full decision flow: Initiate exam -> Results returned -> Player decision -> Worker reaction -> World fallout
+Worker reactions based on personality: Driven to Destruction, Fragile/Lazy, Loyalist, Bitter
+Kurt Angle 2005 example: Painkiller addiction arc from refusing time off
+
+### Relationship Timeline System
+Relationships evolve over time with historical checkpoints
+Punk/Colt example: 2003 Best Friends -> 2016 Fallen Friends -> 2020 Active Rivalry
+Tag updates: Best Friends to Fallen Friends, Mentor to Betrayed Mentor
+
+### Kayfabe vs Real Separation
+Kayfabe storylines (booking) vs Real relationship shifts (backstage events)
+Critical distinction to prevent nonsensical outcomes
+
+### Kohai/Sempai Loyalty
+Cultural weight for mentor relationships
+Leaving sempai's promotion = Mentor Loyalty Broken trigger
+Stronger bonds in Japan vs West, era-dependent
+
+### Personality Category Lock
+Professionalism, Ego, Temperament, Loyalty, Drive
+"Mental = how you think in violence. Personality = how you survive and scheme backstage."
+
+### Jobbing Willingness Formula
+Multi-factor: Professionalism + Ego + Relationship + Opponent Star Power + Stakes + Culture
+Claudio/Cole example: Friends + equal stars = flash pin accepted
+
+### Conditional Finish Protection
+Kick Out at 3.1 NOT automatic - conditional on opponent, relationship, stakes, culture
+Hogan vs Kidman example: Never clean loss to midcarder
+
+### Match Dominance Impact
+Non-monsters dominating 80-90% = psychology penalty
+Monster Aura workers exempt
+Agent skill can mitigate
+
+### Entertainment Category Lock
+Charisma, Believability, Promo Skill, Menace, Sex Appeal
+Menace = aura + body language + violence potential + psychological predation
+
+### Physical Stat Consolidation
+Agility/Speed merged into single "Agility (Unified)"
+Physical block: Strength, Agility, Stamina, Durability
+
+### Size/Frame Composite
+Height + Weight + Body Type = Size/Frame (hidden composite)
+Body Types: Lean, Thick, Soft, Ripped, Giant, Stringy
+
+### Historical Database 1983
+Ideal starting point for historical mode
+Death of territories, NWA confederation, insane talent pool
+Timeline modes: Realistic, Sandbox, What-If
+
+### Entertainment Calibration Examples
+Vader: 17/19/13/20/2 | Sid: 18/19/9/20/14 | Luger: 15/10/9/15/18
+Steiner BPP: 19/18/7/19/15 | Bret: 16/19/14/11/16
+Misawa: 13/19/7/9/11 | Jumbo: 16/18/11/14/8 | Inoki: 20/20/17/13/14
+Santo: 16/18/11/7/14 | Cena 2013: 19/12/15-16/13/18
+
+### Design Insights from Chunk 05
+"Charisma ≠ Flamboyance" - Bret, Misawa, Santo had quiet charisma
+"Menace Must Be Mythic" - Vader, Sid, Steiner need 19-20
+"Promo Skill ≠ Connection" - Sid, Steiner connected despite "bad" promos
+"Sex Appeal Is Market-Specific" - Bret huge with women, Vader 2, Rock 20
+
+---
+
+# LINE-BY-LINE EXTRACTION PROTOCOL
+When reading Vol 1 chunks:
+1. Ctrl+F this file for any concept that looks familiar
+2. Check the SECTION headers (A-M) for item numbers
+3. If concept NOT found here, it's potentially NEW
+4. Document new findings with: name, description, location, category
+5. Categories: MECHANIC, CONCEPT, FORMULA, CALIBRATION, HALFBAKED, QUOTE
+
+# VERIFICATION STATUS
+CORRECTED 2024-12-23: Item numbers now match extraction report's actual structure
+All 228 items accounted for across Sections A-M (191 numbered + 37 HB)
+Section C reduced from 11 phantom items to 2 actual explicit items
+Concepts formerly listed under "Section C items 30-40" relocated to correct sections
+FULL SYNC VERIFIED 2024-12-23: All sections A-J cross-checked against extraction report
+UPDATED 2024-12-23: Section K expanded from Chunk 02-03 line-by-line extraction (12 items total)
+UPDATED 2024-12-23: Section L added from Chunk 04 line-by-line extraction (11 items: #163-173)
+UPDATED 2024-12-23: Section M added from Chunk 05 extraction (18 items: #174-191, HB-38 resolved into #190)
+UPDATED 2024-12-23: Section N added from Chunk 06 extraction (7 items: #192-198, HB-39)
+
+---
+
+## SECTION N: CHUNK 06 EXTRACTION (Items 192-198 + HB-39)
+# Added from Chunk 06 line-by-line review (lines 636-762)
+
+### Chunk 06 Items (192-198)
+# 192. Safety Stat (Bell-to-Bell)
+# 193. Mental Attributes Final Consolidation
+# 194. Bell-to-Bell Final Structure
+# 195. Lifestyle Tags Pool - Substance Category
+# 196. Lifestyle Tags Pool - Romantic/Personal Category
+# 197. Stiffness Tag Cultural Implementation
+# 198. Era-Specific News UI Details (Expanded)
+
+### Chunk 06 Half-Baked
+# HB-39. Personality Coverage Gap Check (Corporate sellouts, Purists as future tags)
+
+### Safety Stat (#192)
+Bell-to-Bell attribute measuring worker safety
+Covers: Botch rate, dangerous move control, reliability across opponents/styles
+Effects:
+- Dangerous workers get injured more often
+- Dangerous workers might hurt stars and get buried politically
+- Top workers may refuse to work with reckless ones
+- High safety = backstage trust (Bret Hart, Danielson examples)
+
+### Mental Attributes Final Consolidation (#193)
+Resilience formally merged INTO Drive
+Drive = ambition + hunger + mental bounceback from setbacks
+Final Mental Block (5 stats):
+- Focus
+- Composure
+- Consistency (moved from Bell-to-Bell)
+- Adaptability (unified)
+- Drive (now includes resilience)
+
+### Bell-to-Bell Final Structure (#194)
+Final Bell-to-Bell Block (7 stats):
+- Technical Skill
+- Brawling Skill
+- Aerial Skill
+- Hardcore Skill (renamed from Hardcore/Plunder)
+- Psychology (unified, supported by Match Calling Tags)
+- Selling (formal separation as core art)
+- Safety (new)
+
+### Lifestyle Tags Pool - Substance (#195)
+Straight Edge, Social Smoker, Chain Smoker, Casual Drinker, Barroom Regular
+Party Burner, Crash and Burn, Cycle User, Juice Fiend, Pain Pill Cowboy
+Walking Recovery, Iron Temple, Mirror Chaser, Weekend Warrior
+Functional Addict, Holistic Guru, Gym Rat
+(17 tags total)
+
+### Lifestyle Tags Pool - Romantic/Personal (#196)
+Serial Flirt, Monogamous, Relationship Cursed, Workplace Romance Enthusiast
+Celibate/Disinterested, Big Spender, Frugal, Financial Disaster
+Globetrotter, Homebody, Family-Oriented, All-In Wrestler
+(12 tags total)
+
+### Stiffness Tag Cultural Implementation (#197)
+Expands #5 Stiffness Tag with cultural reception mechanics
+Japan (AJPW, NJPW, NOAH): Positive, match quality bonus, locker room acceptance
+Strong Style Indies, modern AEW: Neutral to slightly positive
+80s-90s American Mainstream (WWF, WCW): Negative, backstage complaints
+Famous Stiff Workers: Vader, Kawada, Ishii, Suzuki, Finlay, Danielson, Brock
+
+### Era-Specific News UI Details (#198)
+Expands #149 Era-Specific UI/News Presentation
+Pre-1995: Newsletter/Observer style, typewriter aesthetic, folded paper
+Mid 90s-Early 00s: Ugly early web, GeoCities, blocky tables, bad fonts
+Mid 00s-Early 10s: Modern web news, cleaner layouts, forums
+Present Day: Phone app, mobile-first, fast alerts, multimedia
+Player Toggle: Era Authentic vs Unified Modern Presentation
+
+---
+
+## SECTION O: CHUNK 07 EXTRACTION (Items 199-214 + HB-40)
+# Added from Chunk 07 line-by-line review (lines 763-889)
+
+### Chunk 07 Items (199-214)
+# 199. Professional Traits Tag Pool (Complete)
+# 200. Backstage Behaviour Tag Pool (Complete)
+# 201. Predatory Behaviour Tag + Era Sensitivity
+# 202. Personal Morality & Conduct Tag Pool
+# 203. Creativity & Adaptability Tag Pool (Expanded)
+# 204. Physical Maintenance Decliner Tag
+# 205. Dynamic Marketability Calculation System
+# 206. Cultural Resonance System
+# 207. Era Values Matrix / Era Trend Engine
+# 208. Realism Toggle System
+# 209. Dynamic Gimmick Creation System
+# 210. Three-Tier Booking Assistance System
+# 211. Promo DNA Profile System
+# 212. Promo Archetypes (Fallback)
+# 213. Scrape-Assisted Worker Creation
+# 214. Big Match Mentality Tag Placement (Correction)
+
+### Chunk 07 Half-Baked
+# HB-40. Auto-Generated Database Concept (80-90% automation possible)
+
+### Professional Traits Tag Pool (#199)
+Loyalty: Company Loyalist, Promotion Hopper
+Political Savvy: Politician, No-Politics Purist, Ruthless Opportunist
+Mentorship: Mentor Spirit, Locker Room Leader
+Drama: Drama Magnet, Heat Seeker, Unreliable Flake
+Career: Self-Promoter, Creative Contributor, Creative Control Freak, Hard to Book, Spot Protector, Protects Aura
+Work Ethic: Workhorse Mentality, Passive Survivor, Burnout Risk, Easy Going
+(20 tags)
+
+### Backstage Behaviour Tag Pool (#200)
+Power Abuse: Backstage Bully, Kiss-Up, Predatory Behaviour
+Locker Room: Brash & Proud, Respectful Traditionalist, Mentor in the Making, Locker Room Glue
+Ribbing: Playful Prankster, Cruel Ribber
+Emotional: Sensitive, Unshakable
+Politics: Shit-Stirrer, Forgiving, Grudge Holder
+Social: Morale Booster, Vibe Killer, Unapproachable, All Business
+(18 tags)
+
+### Predatory Behaviour + Era Sensitivity (#201)
+Violent/abusive/sexually predatory behavior toward non-wrestlers, refs, trainees
+Era Effects: Pre-1990 hidden, 1990s Observer leaks, 2000s internet/courts, 2010s+ Speaking Out viral
+
+### Personal Morality Tags (#202)
+Progressive, Traditionalist Values, Discriminatory Views, Reformed Bigot
+Exploits Division, Ally & Advocate, Openly Bigoted Gimmick Worker
+(7 tags - separate from base game for ethical/legal)
+
+### Creativity & Adaptability Tags (#203)
+Core Innovation: Creative Dynamo, Promo Innovator, Spot Innovator, Finisher Architect
+Character Flex: Gimmick Chameleon, Character Immersion Expert, Trend Chaser, Anti-Gimmick Purist, Character Evolution Specialist
+Era Navigation: Era Shifter, Era Defiant, Inflexible, One-Trick Pony
+Style Flex: Style Wanderer, Hard Style Adapter, Deathmatch Artist, Style Versatile, Style Locked
+Vision: Big Picture Visionary, Conceptual Thinker
+(20 tags)
+
+### Physical Maintenance Decliner (#204)
+Maintains peak in youth, struggles post-peak (late 30s+)
+Examples: Lex Luger, Jake Roberts, Scott Hall
+
+### Dynamic Marketability (#205)
+Replaces Star Quality
+Factors: Charisma, Sex Appeal, Menace, Believability, Promo Ability, Gimmick Heat, Cultural Resonance, Era/Region Modifier
+
+### Cultural Resonance System (#206)
+National/Regional Identity + Era Cultural Movements + Audience Demographics + Symbolic Appeal + Push Amplification
+
+### Era Values Matrix (#207)
+Authority Respect, Violence Appetite, Sexual Conservatism, Social Progressiveness, Workrate Appreciation, Comedy Tolerance, Cinematic Presentation
+Ticks forward yearly, regional modifiers
+
+### Realism Toggles (#208)
+Era Simulation ON/OFF, Scandal System ON/OFF, Aging/Decline ON/OFF
+
+### Dynamic Gimmick Creation (#209)
+Quick Assign: Type anything, no questions
+Clarified Assign: 1-2 clarifying questions
+Backend tags: Authority Respect, Violence Appetite, Believability Requirement, Menace Boost, Promo Need, Visual Flair Need, Tolerance for Losing
+
+### Three-Tier Booking Assistance (#210)
+Freeform (Manual), Semi-Assisted (prompt to promo), Full Auto (segment goals only)
+
+### Promo DNA Profile System (#211)
+Tone, Cadence, Vocabulary, Themes, Emotion Bias, Era Modifiers, Finisher Style, Body Language
+Storage: ~5-7KB per worker, ~30-36MB for 3,000 workers
+
+### Promo Archetypes (#212)
+Indy Deathmatch Scumbag, Southern Rassler, Lucha Hero, Stoic Assassin, Corporate Heel, Monster Heel
+
+### Scrape-Assisted Worker Creation (#213)
+Editor scrapes Wikipedia/Cagematch/Observer/YouTube
+Auto-generates Promo Profile, ~100-150MB for 10,000 profiles
+
+### Big Match Mentality Correction (#214)
+Confirmed as Bell-to-Bell/In-Ring tag, NOT Professional trait
+
+---
+
+## SECTION P: CHUNK 08 EXTRACTION (Items 215-232 + HB-41)
+# Added from Chunk 08 line-by-line review (lines 890-1016)
+
+### Chunk 08 Items (215-232)
+# 215. Auto-Generated Database Workflow
+# 216. Historical Database Modes (3 modes)
+# 217. Monster Archetype (FINALIZED)
+# 218. Brawler Archetype (FINALIZED)
+# 219. Technician Archetype (FINALIZED)
+# 220. High Flyer Archetype (FINALIZED)
+# 221. Shooter Archetype (FINALIZED)
+# 222. Charismatic Entertainer Archetype (FINALIZED)
+# 223. Hardcore Archetype (FINALIZED)
+# 224. Scar Tissue Tag
+# 225. Storyteller Archetype (Discussion/Partial)
+# 226. Giant Archetype (FINALIZED)
+# 227. Heroic Babyface Archetype (FINALIZED)
+# 228. Draft War Room System
+# 229. All-Time Peak Draft Mode
+# 230. Development Timeline Estimate
+# 231. Godot Engine Selection
+# 232. Archetype Core Skills Rule
+
+### Chunk 08 Half-Baked
+# HB-41. Walking Pad Ergonomics for Dev Work
+
+### Auto-Generated Database Workflow (#215)
+Pick era, set authenticity (100%/80%/alternate)
+Hit generate, 90% builds automatically
+File size: 300-500MB for full 1983-2025 global database
+
+### Historical Database Modes (#216)
+Real World Mode: Mirror history as best as possible
+Alternate Timeline Mode: Scrape reality, randomize key career pivots
+Fantasy Hybrid: Direct history with clicks ("Misawa joins WWF 1995")
+
+### Monster Archetype FINALIZED (#217)
+Core Skills: Menace 17+ (Elite) or 13+ (Shindy), Believability 14+
+Subtypes: Juggernaut, Athletic Monster, Sadistic Monster, Tragic Monster, Shindy Monster
+Relative scaling for Agility/Power based on roster context
+Tags: Rampaging Monster, Fragile Ego, Quiet Fury, Hot Head, Crowd Monster, Slow Burner, Special Attraction
+
+### Brawler Archetype FINALIZED (#218)
+Core Skills: Brawling 14+, Believability 14+
+Subtypes: Dirty Brawler, Heroic Brawler, Technical Brawler, Psychotic Brawler, Hardcore Brawler
+Tags: Barroom Tough, Bleeder, Loves the Crowd, Slow Burn Seller, Never Say Die, Bruiser Aura
+Onita/Abby NOT hardcore brawlers - they're Hardcore Icons (separate archetype)
+
+### Technician Archetype FINALIZED (#219)
+Core Skills: Technical Skill 14+, Psychology 12+
+Subtypes: Pure Technician, Fire Technician, Submission Specialist, Chain Wrestler, Technical Storyteller, Heel Ace Technician
+Tags: Ring General, Limb Worker, Submission Fiend, Clinical Killer, Crowd Adapter, Match Length Expert
+Durability cap removed (was 16, now flexible)
+Bret/Finlay/Regal can flex higher on Brawling
+
+### High Flyer Archetype FINALIZED (#220)
+Core Skills: Aerial Skill 14+, Agility 14+
+Subtypes: Daredevil Flyer (hardcore elements), Technical Flyer, Storytelling Flyer, Charismatic All-Around Flyer (Liger, RARE), Flying Spot Monkey, Aging Flyer Hybrid
+Tags: Adrenaline Junkie, Crash & Burn, Crowd Pop Specialist, Daredevil Aura, Unpredictable Flyer, Aging Adaptability
+Ibushi/Omega shifted to hard-hitting puro later (flying as spice not staple)
+
+### Shooter Archetype FINALIZED (#221)
+Core Skills: Technical Skill 12+, Believability 14+, Legitimacy 14+
+Subtypes: Catch Wrestling Shooter, MMA Crossover Shooter, Strong Style Shooter, Suplex Shooter, Shoot-Style Purist
+Tags: Submission Machine, Real Fighter Aura, Stiff Worker, Mat Technician, Wild Card Brawler, Short Fuse, Gritty Survivor
+Gary Albright = textbook Suplex Shooter
+Inoki = Strong Style Shooter
+
+### Charismatic Entertainer Archetype FINALIZED (#222)
+Core Skills: Charisma 16+, Promo Skills 14+
+Subtypes: Face of the Company, Folk Hero Entertainer, Charismatic Heel, Showman Hybrid, Transcendent Crossover Star
+Tags: Promo God, Mainstream Appeal, Merch Machine, Visual Icon, Golden Tongue, Audience Commander
+Examples: Hogan, Rock, Cena, Dusty, Savage
+
+### Hardcore Archetype FINALIZED (#223)
+Core Skills: Brawling 12+, Believability 12+
+NO separate "Hardcore" skill rating - emergent from stats+tags+psychology+health
+Subtypes: Hardcore Icon, Hardcore Daredevil, Garbage Brawler, Technical Hardcore Hybrid, Violent Psychopath
+Tags: Bleeder, Bump Machine, Bloodthirsty, Hardcore Folk Hero, Dangerous Worker, Deathmatch Specialist, High Pain Threshold
+Onita/New Jack/Abby/Necro differentiated through stats+tags not generic Hardcore stat
+
+### Scar Tissue Tag (#224)
+Body shows heavy scarring from previous battles (deathmatches, blade jobs)
+Menace +1-3 based on existing score
+Slight penalty for "clean image" promotions
+Bonus for hardcore audience connection
+Can appear DYNAMICALLY during career from accumulated health damage
+Examples: Onita, Foley, Abdullah, Necro, Jun Kasai
+
+### Storyteller Archetype Discussion (#225)
+Mostly serves as HYBRID LAYER over other archetypes
+Pure storytellers rare (peak 80s Steamboat, young Akiyama)
+Paul Orndorff example: masterful heel heat segment control
+Core skills would be Psychology and Selling
+Kobashi = Monster + Storyteller, Bret = Technician + Storyteller, etc.
+
+### Giant Archetype FINALIZED (#226)
+Core Skills: Menace 15+, Believability 14+, Size 6'6"+ height minimum
+Subtypes: Athletic Giant, Ogre Giant, Charismatic Giant, Monster Giant, Gentle Giant, Silent Enforcer Giant, Technical Giant (VERY RARE: early Giant Baba)
+Umaga NOT giant (6'4") - fits Wildman Brawler
+Yokozuna honorary giant (bulk over height)
+Luke Gallows was never a technician
+
+### Heroic Babyface Archetype FINALIZED (#227)
+Core Skills: Selling, Psychology, Charisma, Believability (all must be strong)
+Subtypes: Pure White Meat Face, Gritty Battler, Underdog Ace, Charismatic Hope Bringer, Reluctant Hero, Fighting Champion
+Era sensitivity: 80s faces = "good guys", modern need vulnerability/edge
+Examples: Steamboat, Rey, Ibushi, Bryan, Dreamer, Ricky Morton
+
+### Draft War Room System (#228)
+AI assistant during timed drafts
+Type prompts: "great heels for surfer sting", "top young tag teams 1987"
+Suggests 5-15 relevant picks with profile quick views
+Handicap system: finite/infinite uses based on player knowledge balance
+Can disable for "No Training Wheels Mode"
+Knows promotion style and suggests culturally appropriate picks
+
+### All-Time Peak Draft Mode (#229)
+Every worker available at absolute peak form
+Era fusion: 70s bruisers vs 2020s hybrid monsters in same pool
+Fantasy feuds: Misawa vs Omega, Okada vs Flair
+Optional house rules (5 workers per real-life promotion, 1 per decade, etc.)
+Peak versions of tag teams/managers included
+
+### Development Timeline Estimate (#230)
+~200-250 hours for playable alpha
+Phases: Worker Construction (30-40h), World Building (20-30h), Draft Systems (20-30h), Booking Engine (40-50h), AI Logic (30-40h), Front-End (20-30h), Testing (20-30h)
+Basic ugly prototype possible at ~150h
+
+### Godot Engine Selection (#231)
+Recommended for front-end development
+Free, lightweight, professional, cross-platform
+Good for sim games with modular menus
+2 months casual learning to be "dangerous"
+
+### Archetype Core Skills Rule (#232)
+Every archetype MUST have mandatory minimum core skills
+Recommended ranges = flexible for other stats
+Core skills = archetypal essence (no exceptions)
+Odd stats can go outside prescribed ranges, but core skills CANNOT
+
+---
+
+## SECTION Q: CHUNKS 09-10 EXTRACTION (Items 233-270, HB-42 to HB-44)
+# Source: VOL1_CHUNK_09 and VOL1_CHUNK_10
+# Extracted: 2024-12-23
+
+### Tweener Archetype FINALIZED (#233)
+Core Skills: Believability, Charisma (draw attention without clear alignment)
+Subtypes: Reluctant Heel, Reluctant Face, Chaotic Neutral, Self-Interested Opportunist, Antihero, Silent Tweener
+Examples: Stone Cold '97, Eddie Kingston, Moxley, Asuka
+
+### Heel Ace Archetype FINALIZED (#234)
+Core Skills: Charisma, Psychology, Overness (top tier)
+Subtypes: Arrogant Champion Heel, Silent Monster Heel, Cerebral Assassin Heel, Charismatic Dictator Heel, Ruthless Shooter Heel
+Examples: Flair 80s, Tribal Chief Roman, Lesnar 2014-15, Suzuki
+Note: Kawada NOT Cerebral Assassin - needs Defiant Soul archetype
+
+### Overness System 0-100 Regional (#235)
+Scale: 0-100 (not 20-point)
+Regional Tracking: Each worker has overness in every major territory/region
+National/World Average: Auto-calculated across significant presence regions
+Hidden Reputation Modifiers: Track long-term perception even when not booked
+Soft Caps: Based on charisma, believability, cultural fit
+Optional: Overness Momentum, Fan Type Reaction Modifiers, Era Sensitivity, Decay
+
+### Travelling Heel Champion Subtype (#236)
+Parent: Heel Ace
+Role: Elevate local babyfaces across promotions while protecting world title prestige
+Core Skills: Charisma, Psychology, Technical (optional)
+Booking AI: Close matches, escape wins (roll-ups, foot on ropes), rare clean losses
+Example: Ric Flair
+
+### Travelling Heel Monster Subtype (#237)
+Parent: Monster
+Core Skills: Menace, Power, Durability
+Booking AI: Beat midcarders clean, brutalize lower faces, build to final showdown
+Fan Impact: Excitement early, cool quickly after loss if overstays
+Examples: Brody, Hansen, Sheik, Abdullah, Ladd
+
+### Técnico Archetype FINALIZED (#238)
+Core Skills: Agility (graceful), Charisma (fan connection), Believability (heart/fighting spirit)
+Subtypes: Aerial Marvel, Masked Icon, Technical Virtuoso, Underdog Warrior, Rugged Hero, Larger-Than-Life Showman, Alternative Rebel (RARE)
+Tags: Defender of Tradition, Beloved by Fans, Risk-Taker, Mask Loyalty, Avenger of Betrayals
+Examples: El Santo, Rey Jr early, Blue Panther, Vampiro peak CMLL
+
+### Rudo Archetype FINALIZED (#239)
+Core Skills: Brawling, Psychology, Believability
+Subtypes: Street Brawler, Rudo Technico, Vicious Rulebreaker, Monster Heel, Charismatic Antagonist, Cult Leader, Wild Outsider
+Tags: Mask Disrespecter, Cheap Heat Expert, Dirty Fighter, Power Hungry, Ruthless Opportunist
+Examples: Perro Aguayo Sr, Rush, L.A. Park, Satanico
+
+### Freak Show Attraction Archetype (#240)
+Identity: Over-the-top costumed spectacle characters with massive visual presence
+Skills: High Menace, Low/middling Technical/Psychology, High Marketability
+Booking: Short bursts, special events/undercards, need protection in match structure
+Tags: Freak Show Attraction, Gimmick Heavy, Limited Worker, High Maintenance Costume
+Examples: Gronda, Alebrije, AAA creature gimmicks
+
+### Lucha Politics System (#241)
+Family Dynasties: Wrestlers protected by famous legacies (Villanos, Guerreros, Casas)
+"No Yob" Mentality: Workers refuse to lose unless massively placated (Mil Máscaras)
+Mask Protection: Improper mask loss = mass walkouts
+Territory Mentality: Satellite promotions, brutal regional politics
+System Handles: Family Protection tag, No Yob Clause, Regional Loyalty, Locker Room Dynamics, Mask Loss Negotiation Engine
+
+### Territory Lifer/Journeyman Archetype FINALIZED (#242)
+Identity: Career lower-mid to midcard, vital in old system, moves territory-to-territory
+Core Skills: Consistency 14-18, Psychology 12-18, Basics 13-19, Believability 12-18
+Personality: Reliable, adaptable, rarely backstage problem, deeply respected
+Tags: Wanderer, Reliable Hand, Veteran Leader, Company Man, Versatile Worker, Durable Workhorse
+
+### Emotional Storyteller Subtype (#243)
+Parent: Territory Lifer
+Core Skills: High Psychology, High Believability, Strong Mic Skills (gritty, not polished)
+Booking: Thrive on long builds, betrayal angles, personal feuds
+Tags: Master of Heat (heel), Master of Sympathy (face), Territorial Grind Expert
+Example: Eric Embry
+
+### Eric Embry Worker Calibration (#244)
+Peak Era: Late '80s Dallas WCCW to Early '90s USWA
+Key Stats: Psychology 18, Believability 20, Drive 18, Selling 17, Brawling 16
+Tags: Master of Sympathy, Bloodbath Specialist, Territory Grind Expert, Underrated Mic Artist
+
+### Embry Promo Example (#245)
+Dusty Rhodes hit-and-run angle
+Tone: Raspy, emotional, trembling, slightly off-balance
+Key Line: "You gonna ride straight into me...the American Dream turns into the American Nightmare"
+
+### Akira Hokuto Worker Calibration (#246)
+Peak Era: Early-Mid 1990s AJW
+Key Stats: Psychology 20, Believability 20, Drive 20, Selling 20, Durability 20
+Tags: Fragile Warrior (chronically injured but fights through)
+Note: One of greatest emotional sellers ever. Wrestled with broken neck. "The mummy."
+
+### Toshiaki Kawada Worker Calibration (#247)
+Peak Era: 1992-1997 AJPW
+Key Stats: Psychology 20, Believability 20, Selling 20, Stamina 18, Brawling 19
+Notes: GOAT match structure/escalation. Broke Misawa's orbital '95 CC. Loved working UWFi guys.
+
+### Stan Hansen Worker Calibration (#248)
+Peak Era: 1980s AJPW + Global
+Key Stats: Believability 20, Menace 19, Brawling 20, Power 18, Legitimacy 17
+Tags: Selective Big Man Seller
+Notes: Mount Rushmore of wrestling brawlers. "I'm blind!" vs Vader Tokyo Summer '90 better than famous Tokyo Dome eye match.
+
+### Basics Skill NEW STAT (#249)
+Definition: Footwork, timing, ring movement smoothness
+Calibration Examples: Arn Anderson 20, Barry Windham 20, Hokuto 12-13 (gritty but fit character)
+Impact: Match flow, visible professionalism, training school perception
+
+### Fragile Warrior Tag (#250)
+Definition: Tough as hell but often injured due to reckless bumping or chronic conditions
+Character Impact: Adds pathos, fans worry, matches feel dangerous
+Examples: Akira Hokuto, Dynamite Kid, Bryan Danielson
+
+### Selective Big Man Seller Tag (#251)
+Definition: Will sell for specific opponents when story demands, otherwise no-sells like tank
+Examples: Stan Hansen, Vader (both could sell their ass off when motivated)
+
+### Jobber Archetype FINALIZED (#252)
+Core Skills: Selling 10-20 (KEY), Safety 8-18
+Subtypes: Enhancement Specialist, Cannon Fodder, Outlasted Them All, Lovable Loser, Cringe Jobber, Perennial Underdog
+Examples: Barry Horowitz, Mikey Whipwreck
+
+### Ham and Egger Subtype (#253)
+Definition: Crockett/territory workers barely trained, slobs, got beat up
+Key Stats: Basics 1-6, Selling 4-10, Safety 2-8, Believability 1-7
+Purpose: Visual squash dominance for stars (Vader, Brody, Hansen, Nikita)
+Tags: Sloppy Worker, Tough As Nails, Human Punching Bag, No Threat
+
+### Weekend Warrior Tag (#254)
+Definition: Worker not full-time professional, wrestling is hobby/temporary
+Effects: Rapid skill decline, higher chance leaving industry, low drive, increased no-show chance
+
+### Enforcer/Technical Bruiser Archetype FINALIZED (#255)
+Core Skills: Technical 14-19, Brawling 14-18, Psychology 14-20, Basics 15-20, Believability 14-20
+Style: Long grinding heat segments, limb work, relentless pressure
+Tags: Ring General, Grinder, Limb Killer, No Nonsense Persona
+Examples: Arn Anderson, Ole, Finlay (pure exemplar), Regal, Dax Harwood
+
+### FTR Analysis Cash vs Dax (#256)
+Cash: Elite focus/concentration, better true wrestler, orchestrates when things go wrong, looks like Buzz Sawyer Jr
+Dax: Higher charisma, "face" of team, promos overrated (stutters, brings up family constantly)
+"Tribute act" for Midnight Express is lame gimmick
+
+### Undertaker Reality Check (#257)
+Best Attribute: Believability 20
+Prime Stats: Brawling 15, Technical 11, Psychology 14, Basics 16-17
+Reality Check: Old Man Taker most overrated, many stinkers all eras, opponent-dependent
+Batista series surprisingly strong (Batista underrated)
+HBK/HHH Mania matches feel masturbatory and overlong
+
+### Old School Hero Archetype FINALIZED (#258)
+Core Skills: Charisma, Believability, Basics, Psychology, Selling
+Subtypes: Golden Boy, Blue Collar Hero, Young Firebrand, Fighting Ace, Technical Hero
+Examples: Steamboat, Von Erichs, Dusty, Magnum TA, Tommy Rich
+
+### Pure Heel Archetype FINALIZED (#259)
+Core Skills: Charisma 13-20, Believability 14-19, Psychology 14-20
+Subtypes: Arrogant Technician (Bockwinkel), Sadistic Brawler (Valentine), Methodical Champion (Race), Snake Oil Talker (Tully)
+
+### Wildcard Archetype FINALIZED (#260)
+Core Skills: Charisma 14-20, Believability 15-20, Brawling 14-20
+Subtypes: Unhinged Brawler, Calculated Wildman, Violence Artist
+Examples: Brody, Buzz Sawyer, Terry Funk, Hansen (early), New Jack
+
+### Cowardly Heel Archetype FINALIZED (#261)
+Core Skills: Charisma 14-20, Believability 13-18, Psychology 14-18, Selling 14-20
+Subtypes: Loudmouth Coward (HTM), Weasel Heel (Zbyszko), Opportunistic Scumbag (Edge '06-'08), Pretender Heel (Miz)
+Booking Note: If booked too dominantly, kills heat. Should only win clean as undeserved upset.
+
+### Pretender Heel Subtype (#262)
+Definition: Pure facade, no real danger, HAVE to cheat because not real threat
+Stats: Low Believability (8-10), polished "play actor" corporate vibes
+Example: The Miz
+
+### Junior Puroresu Archetype FINALIZED (#263)
+7 Subtypes:
+- Phoenix Spirit (Hayabusa, Fénix - scarred heroic flyers, deep emotional resonance)
+- Tiger Style Junior (Original Tiger Mask - precision flyers/strikers, martial arts)
+- Junior Bruiser (Takaiwa, Kondo - powerhouses, more grounded)
+- Junior Technician (early Kanemoto, Minoru Tanaka - mat-first)
+- Junior Dickhead (late Kanemoto, heel Ohtani - mask rippers, arrogant swagger)
+- Lucharesu Hybrid (Sasuke, CIMA, Dragon Kid - lucha + puroresu blend)
+- Junior Ace/Charismatic All-Rounder (Liger, Último Dragón - complete division leaders)
+
+### Stoic Ace Archetype FINALIZED (#264)
+Core Skills: Believability, Overness, Psychology, Durability, Selling (all high)
+Tags: Iron Will (exceptional resistance to tournament fatigue, catastrophic if pushed too far)
+Subtypes: Warrior Saint (Misawa type), Stern Frontliner (Takada after UWF)
+Note: Kawada/Hokuto are NOT Stoic Aces - they are Defiant Soul
+
+### Defiant Soul Archetype FINALIZED (#265)
+Core Skills: Selling, Believability, Psychology, Stamina (all high)
+Tags: Beauty In Struggle (boosts emotional investment in major matches)
+Philosophy: "I see the ceiling. I know I'll fail. I will fight anyway."
+Subtypes: Iron Rebel (Kawada), Tragic Survivor (Hokuto)
+Note: NOT an Ace archetype - the antithesis of Ace
+
+### Beauty in Struggle Philosophy (#266)
+Definition: Soul of SCS. Wrestling at its best is about the struggle itself.
+Tagline: "Squared Circle Soul: Beauty in Struggle"
+Design Rule: "Does it honour beauty in struggle?" - if not, it's out.
+Key Insight: Long title reigns less beautiful than chases. Heroism forged in scars.
+Examples: Kawada, Hokuto, Misawa, Dusty, Eddie Guerrero
+
+### Shady Heel Technician Archetype FINALIZED (#267)
+Core Skills: Technical 14-20, Psychology 14-20, Charisma 12-18
+Subtypes: Sadist Stretcher (Suzuki, Finlay), Villainous Showman (Taichi), Master of Torment (Fujiwara trolling)
+Note: NOT brute-force monsters - manipulate through technical violence or mind games
+
+### Muga Practitioner Archetype FINALIZED (#268)
+Definition: "Muga" (無我) = selflessness/ego death - clean pure technical wrestling
+Core Skills: Technical (very high), Psychology (very high), Basics (high), Believability
+Subtypes: Pure Muga/Stoic Technician (Fujinami, Nishimura), Dragon Showman (young Tanahashi), Cold Artisan (Sanada)
+Excel at: Long matches feeling natural without "epic" melodrama
+Struggle if: Promotions demand bomb-throwing flash
+
+### Miz Worker Calibration (#269)
+Key Stats: Mic Fluency 15-16, Believability 8-9, Psychology 13-14, Basics 9-11
+Notes: "Too polished, not authentic" cowardly heel. Goofy expressions, overacting, lacks sincerity.
+
+### Archetype Core Skills Extension (#270)
+Reinforces #232: Every archetype MUST have mandatory core skills
+Junior Puroresu subtypes each have distinct skill emphases
+Pure Muga vs Dragon Showman distinguished by fundamentals vs flash ratio
+
+---
+
+## HALF-BAKED IDEAS (Section Q Additions)
+
+### Battle-Hardened Ace (HB-42)
+Saved for Phase 2. AJPW 90s spirit - greatness through survival, sacrifice, realism.
+NOT Ace archetype - antithesis. "Beauty in Struggle" embodied.
+Potential Tags: Beautifully Obstinate, Eternal Challenger, Heavy Crown Bearer, Bittersweet Spirit
+
+### Strong Style Archetype (HB-43)
+Partial development. Would cover Hashimoto, Inoki fighting spirit.
+Potential Subtypes: Fighting Spirit Hero, Strong Style Bruiser
+Needs full development.
+
+### Tag Team Specialist Archetype (HB-44)
+Mentioned as future priority after puroresu archetypes complete.
+Would cover tag psychology, chemistry, basing, saving partners.
+Not developed.
+
+---
+
+## === VOLUME 1 GRAND TOTALS ===
+
+| Section | Items | Range |
+|---------|-------|-------|
+| A: Worker Skills | 6 | #1-6 |
+| B: Archetypes | 23 | #7-29 |
+| C: Additional Mechanics | 2 | #30-31 |
+| D: Booking & Simulation | 11 | #32-42 |
+| E: Half-Baked Ideas | 37 | HB-1 to HB-37 |
+| F: Final Sweep | 11 | #43-53 |
+| G: Deep Sweep | 53 | #54-106 |
+| H: Major Systems | 12 | #107-118 |
+| I: Extended Systems | 19 | #119-137 |
+| J: Final Sweep Systems | 13 | #138-150 |
+| K: Chunk 02-03 | 12 | #151-162 |
+| L: Chunk 04 | 11 | #163-173 |
+| M: Chunk 05 | 18 | #174-191 |
+| N: Chunk 06 | 7 | #192-198 |
+| O: Chunk 07 | 16 | #199-214 |
+| P: Chunk 08 | 18 | #215-232 |
+| Q: Chunk 09-10 | 38 | #233-270 |
+| **TOTAL** | **311** | (270 numbered + 41 HB) |
+
+---
+
+**VOLUME 1 EXTRACTION STATUS:** COMPLETE ✅
+**Last Updated:** 2024-12-23

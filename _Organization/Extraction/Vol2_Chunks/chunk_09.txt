@@ -1,0 +1,121 @@
+# VOL 2 CHUNK 09 (Lines 713-801)
+# EXTRACTION PRIORITY: Weather Risk Refinements, Tampa Climate Profile, Booking Engine Momentum/Popularity
+
+## KEY SYSTEMS TO EXTRACT:
+
+### Weather Risk System - Refinements (HIGH PRIORITY)
+
+**Mental Attribute: Adaptability**
+- No separate weather tags needed
+- Use existing Mental Attribute: Adaptability to Environment and Circumstance
+- Higher Adaptability = better performance in rough weather
+- Lower Adaptability = struggles with footing, cardio, match psychology
+
+**Show Type Modifiers:**
+| Event Type | Risk Modifier |
+|------------|---------------|
+| Outdoor, No Protection | Full weather impact (rain, lightning, wind, heat) |
+| Outdoor, Partial Protection | Reduced rain impact, but wind/heat still dangerous |
+| Indoor | Weather limited to crowd travel issues, power outages, worker fatigue |
+
+**Hurricane Season Reality:**
+- Outdoor shows: High risk of cancellation
+- Indoor arena shows: Continue normally unless direct hit/airport closures/evacuation
+- Lighter attendance common due to travel fears, hardcore locals still turn out
+
+**Climate Change Modernization:**
+- Flash floods added to urban outdoor bookings (low probability, even outside monsoon)
+- Summers hotter/deadlier across major cities, severe heat modifiers from mid-90s onward
+- Dangerous humid heatwaves in previously milder cities (Vancouver, London)
+- Worker health consequences spike harder (heat exhaustion, dehydration, cardiac events)
+
+**Tokyo Climate Change Example:**
+| Era | Summer Condition | Notes |
+|-----|------------------|-------|
+| 1980s-90s | Hot and humid (29-32°C) | Manageable but energy-draining |
+| 2020s | Brutally hot (33-37°C peaks) | Dangerous outdoor conditions, heat stroke deaths common |
+| New Risks | Flash flooding from intense typhoons | City can shut down transport, fans stranded |
+
+**Severe Weather Effects:**
+| Factor | Outcome |
+|--------|---------|
+| Major Snowstorm | Airports close, wrestlers trapped/rerouted, card changes needed |
+| Thunderstorm/Hurricane | Show potentially canceled, insurance payouts may mitigate |
+| Heavy Rain (Outdoor) | Attendance drops, ring slippery, injury risk, card may shorten |
+| Extreme Heat | Fatigue/dehydration risks spike, crowd energy drains |
+| Windstorms | Danger to scaffolding, lighting, high-flying spots = botch risks |
+
+**Missing Workers: Travel Blockades:**
+| Situation | Effect |
+|-----------|--------|
+| Key workers stranded (snowstorm/typhoon) | Emergency card reshuffling, disappointing replacements |
+| Foreign talent stuck abroad (visa/political) | Entire tour collapses if critical mass lost |
+| Hardcore fans travel in dangerous weather | Loyalty boost, higher merch per head |
+| Casual fans stay home | Gate disaster, revenue shortfall, PR disaster if show promoted unsafely |
+
+### Tampa, Florida - Climate Profile (SAMPLE)
+
+**General Climate:**
+| Factor | Notes |
+|--------|-------|
+| Primary Climate | Humid Subtropical |
+| Temperature Range | 18°C (Jan) → 32°C (July) |
+| Humidity | High year-round, brutal May-September |
+| Rainfall | Heavy summer, lighter winters |
+| Storm Season | Hurricane threats August-October |
+| Random Severe | Thunderstorms common, lightning capital of North America |
+
+**Seasonal Risk Table:**
+| Season | Conditions | Risk |
+|--------|------------|------|
+| Winter (Dec-Feb) | Mild, dry, 20°C average | Excellent for outdoor shows |
+| Spring (Mar-May) | Warming, sporadic thunderstorms | Mostly good, early May outdoor risk |
+| Summer (Jun-Aug) | Brutal heat, daily afternoon thunderstorms | Dangerous for outdoor, indoor preferred |
+| Fall (Sep-Nov) | Peak hurricane danger | Outdoor risky without contingency |
+
+**Special Notes:**
+- Championship Wrestling from Florida roots = smart, loyal old-school fans
+- Hardcore undercurrent survives into indie shows
+- Crowds forgiving of rough outdoor shows if handled with heart
+- Surviving weather-wrecked show = folk hero status
+
+### Loose Lips Tag Categorization
+- Category: Personality/Backstage Behaviour
+- Subcategory: Locker Room Dynamics / Info Management
+- Not political, not media trait, reflects personal tendency to overshare
+- Affects locker room stability, booking secrecy, scandal surfacing
+
+### Booking Engine Phase 2 - Momentum & Popularity (INTRO)
+
+**Momentum (Short-Term Heat):**
+| Stat | Description |
+|------|-------------|
+| Momentum Rating (0-100) | Worker's current buzz/trajectory |
+| Decay Rate | Based on house style, attention span, media saturation |
+| Momentum Shock Events | Betrayals, returns, shoots create huge spikes |
+| Momentum Stall | Sitting off TV too long collapses momentum |
+
+Influenced by: Match performance, match type/placement, booking intent vs reaction, finishes, post-match segments, media mentions, crowd noise, emotional storytelling
+
+Momentum can spike: Hot promo, bloody loss, heroic effort, betrayal, viral moment
+Momentum can die: 50/50 booking, dead crowd, overexposure, no direction
+
+**Popularity (Long-Term Legacy):**
+| Stat | Description |
+|------|-------------|
+| Global Popularity Rating | Composite based on historical fan reaction |
+| Regional Popularity Spread | Gods in Tokyo but ignored in Houston |
+| Sustained Legacy | Legends retain popularity post-retirement |
+| False Popularity | Push saturation but cold fans = manufactured star tag |
+
+Tied to: Match ratings over time, big wins/losses, feud memories, crowd reactions, merch sales, championship reigns, legendary segments
+
+---
+
+## RAW CONTENT (Key Quote):
+
+"Wrestling isn't just fought in the ring. It's fought in airports, in rainstorms, in the air itself."
+
+"Momentum is heat — and you can't hold heat in your hands."
+
+"Popularity is memory. It's not the pop you got tonight — it's how people remember you next year."

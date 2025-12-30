@@ -1,0 +1,74 @@
+# VOL 2 CHUNK 04 (Lines 268-356)
+# EXTRACTION PRIORITY: Character Tags, Booking Behavior Tags, Master Tag Compilation
+
+## KEY SYSTEMS TO EXTRACT:
+
+### Character Tags (NEW - HIGH PRIORITY)
+- Heat Sponge: Draws heat from every storyline involvement
+- Silver Tongue: Elite promo skills, crowd-swaying at will
+- Loose Cannon: Unpredictable behavior, sabotages angles
+- Puppetmaster: Behind-scenes manipulator, builds/betrays alliances
+- Ring General: Runs matches, calls shots, hides botches
+- Poisonous Influence: Corrupts younger wrestlers
+- Legend In Their Own Mind: Demands spotlight beyond merit
+- Lost Soul: Brilliant but troubled (addiction, depression)
+- Unbreakable Persona: Maintains kayfabe always
+- Opportunistic Betrayer: Abandons alliances for better offers
+
+### Booking Behavior Tags (NEW - HIGH PRIORITY)
+- Talent Hoarder: Stockpiles workers to deny others
+- Booking Martyr: Sacrifices own push to get others over
+- Political Assassin: Uses politics to destroy rivals
+- Booking Narcissist: Builds shows around self/inner circle
+- Focused Core Booker: Small roster, long arcs (Baba-style)
+- Expansionist Visionary: Aggressive growth beyond territories
+- Confederation Loyalist: Values territorial cooperation
+- Territory Raider: Raids talent from smaller promotions
+- White Knight Booker: "Rescues" struggling feds with strings attached
+- Reluctant Innovator: Sticks to tradition unless forced
+
+### Additional Character Tags
+- Dirtsheet Gossip: Talks to newsletters/social media on down low
+- Observe This!: Refuses contact with newsletters, denigrates publicly
+- Chronic Lateness (unreliable but doesn't miss shows)
+- Grudge Holder (holds against those who hurt them)
+- Late Bloomer Entertainment (develops mic/character skills late)
+- No-Show Risk (will disappear for personal hobbies)
+- Ultra Jealous (possessive, controlling behavior)
+
+### Master Tag Sheet Progress
+- 440+ traits compiled
+- Three-column structure: Trait Name | Description | Category
+- Categories: Physical, Performance, Backstage, Scandal, Fan Perception, etc.
+
+---
+
+## RAW CONTENT:
+
+Tag Name DescriptionHeat Sponge Draws heat (positive or negative) from every storyline, feud, or controversy they are involved in — even when not intended.Silver Tongue Elite promo skills — can cut emotional, manipulative, crowd-swaying promos at will.Loose Cannon Unpredictable behavior — prone to sabotaging angles, causing chaos in locker room, blowing up feuds mid-storyline.Puppetmaster Behind-the-scenes manipulator — strings people along backstage, builds alliances, double-crosses others at key moments.Ring General Not just technical mastery — runs matches, calls shots, hides botches, makes everyone better in-ring.Poisonous Influence Corrupts younger or weaker-minded wrestlers — leads to drug use, party excess, locker room drama.Legend In Their Own Mind Convinced they are bigger than they are historically — demands respect and spotlight even when not drawing anymore.Lost Soul Brilliant talent, deeply troubled personally — struggles with addiction, depression, or other demons that cause career inconsistency.Unbreakable Persona Maintains kayfabe and/or character under all circumstances — even off-camera, even decades later.Opportunistic Betrayer Will happily betray business partners, promotions, or alliances if a better offer arises.
+
+📚 New Booking Behavior Tags
+Tag Name Description
+Talent Hoarder Signs and stockpiles workers not necessarily to push them — just to keep them from going elsewhere.
+Booking Martyr Will sacrifice own push or brand position to get others over (rare, but important).
+Political Assassin Uses internal politics ruthlessly to destroy rivals, kill pushes, sabotage feuds.
+Booking Narcissist Builds every show around themselves or their chosen inner circle — ignores organic crowd reactions.
+
+Focused Core Booker Believes in using a smaller, tightly knit main event scene rather than stockpiling huge rosters. Prefers building depth and long arcs with limited top talent.
+Expansionist Visionary Aggressively seeks to expand beyond traditional territorial boundaries or regional limits. Will attempt national or global growth even at the cost of tradition or stability.
+Confederation Loyalist Values territorial cooperation and traditional alliances — will resist raiding other feds, merging brands, or destroying long-standing structures like confederations.
+Territory Raider Booker actively raids talent from smaller promotions without regard for local stability.
+White Knight Booker Booker tries to "rescue" struggling feds by proposing alliances, mergers, or financial support — sometimes with strings attached.
+Reluctant Innovator Booker sticks to tradition unless absolutely forced to innovate by competition or fan revolt.
+
+Additional Character Tags:
+- Dirtsheet Gossip: talks to newsletter writers and (in modern era) social media personalities on the down low
+- Observe This!: refuses to talk to newsletters/influencers/personalities, openly denigrates them on air
+- Chronic lateness but never misses shows (Bret Hart type)
+- Grudge holder against those who hurt them
+- Late bloomer in entertainment skills (develops mic work later in career)
+- No-show risk for personal hobbies (softball, etc.)
+- Ultra jealous/possessive behavior (abusive)
+
+Master Tag Sheet: 440+ traits, 3-column CSV ready
+Categories: Physical, Performance, Backstage, Scandal, Fan Perception, etc.

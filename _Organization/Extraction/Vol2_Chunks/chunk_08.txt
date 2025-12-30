@@ -1,0 +1,137 @@
+# VOL 2 CHUNK 08 (Lines 624-712)
+# EXTRACTION PRIORITY: Hidden Tags System, Timed Trait Reveal, Global Event Stream, Weather Risk System
+
+## KEY SYSTEMS TO EXTRACT:
+
+### Hidden Tags System (MAJOR - HIGH PRIORITY)
+
+**Core Concept:**
+Certain tags (especially scandalous, moral, dark sides) are hidden at start. Only revealed if triggered by in-game events.
+- In-ring skills: Visible
+- Work ethic: Visible
+- "Is secretly a racist abuser": Hidden until exposed
+
+**Tags That Should Be Hidden Until Exposed:**
+| Category | Examples |
+|----------|----------|
+| Scandalous Personality | Racist, Sexist, Homophobic, Transphobic, Predator, Blackmailer, Abusive Trainer, Seedy, If He Dies He Dies |
+| Political/Corporate | Dirty Loyalty, Cover-Up Artist, Corruption Sympathizer |
+| Mental/Emotional Instability | Dangerously Intoxicated, Self-Destructive, Narcissistic, Bunker Mentality |
+| Locker Room Time Bombs | Snake in the Grass, Self-Preserver, Powder Keg Temper |
+| Long-Term Decline Risks | Career Implosion Risks, Substance Abuse Downslide |
+
+**How Hidden Tags Get Revealed:**
+| Trigger | Result |
+|---------|--------|
+| Scandal Event | Tag revealed publicly (e.g., "Star X exposed as abuser") |
+| Shoot Interview | Ex-colleague airs grievances, hidden tags surface |
+| Locker Room Leaks | Whispers lead to media, traits partially exposed |
+| Social Media Blow-Up | Wrestler posts something awful, reveals bigotry |
+| Investigative Journalism | Reporter uncovers abuse cover-ups, mass exposures |
+| Court Cases | Legal records become public, full exposure |
+
+**System Mechanics:**
+- Tags have Visibility Flag (Public/Hidden)
+- Events check visibility triggers
+- Exposure effects: Loyalty loss, sponsor loss, fan mutation, worker reactions
+- Workers might hide additional toxic traits unless repeated scandals expose more
+
+### Timed Trait Reveal System (HIGH PRIORITY)
+
+**How It Works:**
+| Feature | Explanation |
+|---------|-------------|
+| Activation Date | Each hidden tag has a date it becomes public |
+| Historical Saves | Only know what was public at the time |
+| Activation Event | Triggers exposure during play, or auto-marked if starting post-scandal |
+| Hidden Forever | Some skeletons never surface unless triggered |
+| Timed Reactions | Sponsor/fan reactions happen only once exposure happens |
+
+**Example Timeline - Hulk Hogan:**
+| Year | Status | Notes |
+|------|--------|-------|
+| 1987 | Racist (Hidden) | "Normal" casual racism tolerated at the time |
+| 2005 | Aging Star | Beloved by casuals, progressive fans skeptical |
+| 2015 | Tape Leaks | Racist Tag + Deep Racism revealed publicly |
+| 2016 | Fallout Year | Sponsors sever, WWE cuts ties, fanbase fractures |
+| 2020 | Partial Rehabilitation | Fans split between forgiveness and disgust |
+
+**Example Timeline - Chris Benoit:**
+| Year | Status | Notes |
+|------|--------|-------|
+| 1995 | Beloved Workhorse | No negative traits public |
+| 2000 | High Level Career | Minor CTE signs hidden, no public red flags |
+| 2006 | Deepening Instability (Hidden) | Quiet backstage concerns, unseen to players |
+| 2007 | Murder-Suicide Event | Hidden tags explode into public view |
+| Post-2007 | Blacklisted | Promotion of matches removed |
+
+### Global Event Stream (HIGH PRIORITY)
+
+Major events that affect wrestling world:
+| Event | Effects |
+|-------|---------|
+| 9/11 (2001) | Nationalism surge, rah-rah US gimmicks cheered, anti-American heels forced to mask, blood toned down, scandal backlash multiplied |
+| 2008 Recession | Promotions struggle unless offering hope stories, ticket prices critical, indie deaths, pay demands drop |
+| COVID-19 (2020) | Live event shutdowns, empty arena shows, streaming dominance, small promotions with TV survive, hardcore loyalty hardens |
+| Internet Explosion (Late 90s-2000s) | Smart marks rise, kayfabe drops, scandal coverage explodes, indie buzz viable, instant backlash risk |
+
+**How Global Events Affect Game:**
+| Layer | Interaction |
+|-------|-------------|
+| Fanbase DNA Shifts | Patriotism, violence tolerance, scandal sensitivity, spending habits |
+| Worker Behaviour | Relocation, anxiety, risk-taking, political expressions |
+| Promotion Management | Booking style, roster changes, budget, market targeting |
+| Scandal Fallout Modifiers | Forgiveness/outrage multipliers based on cultural mood |
+| Touring Viability | Regions become unstable, inaccessible, or hyper-profitable |
+
+### Weather Risk System (HIGH PRIORITY)
+
+**Core Concept:**
+- Every Region has base climate/weather patterns and extreme weather risks
+- Every Outdoor Show rolls weather conditions before event
+- Every Venue has weather protection level and resilience rating
+- Every Worker has Adaptability to Conditions tag
+
+**Weather Impacts:**
+| Condition | Impact |
+|-----------|--------|
+| Rain (Light/Moderate/Heavy) | Ring slippery, flyers at higher risk, brawlers thrive |
+| Wind (Mild/Strong/Dangerous) | Throws off dives, top rope spots, affects staging |
+| Cold Snap | Worker cardio/endurance affected, crowd patience, injury risk |
+| Heatwave | Worker fatigue spikes, crowd enthusiasm drops, health risks |
+| Snow | Attendance drops, transport issues, cancellations |
+| Thunderstorms | High chance of cancellation, evacuations, extreme injuries |
+
+**Regional Climate:**
+| Region | Weather Risks |
+|--------|---------------|
+| Tokyo | Humid summers, typhoons July-September, rainstorms |
+| Osaka | Hotter inland, sweltering heat outdoor risk |
+| Northern Japan | Heavy snow winters, hardcore snow shows possible |
+| Texas | Heatwaves, flash thunderstorms, occasional tornadoes |
+| Florida | Summer rain, hurricanes August-October |
+| California | Very dry, minimal rain, freak storms rare |
+| Mexico City | Rainy season May-October, afternoon rains |
+| Toronto | Cold winters, summer rain, December snow possible |
+| UK | Light rain often, heavy rain sporadic |
+
+**Worker Adaptability Tags:**
+| Tag | Effect |
+|-----|--------|
+| Rain Master | Thrives in rain, solid footing (Okada, MiSu, AJW women) |
+| Sun Warrior | Best in clear hot outdoor (lucha heroes, beach festivals) |
+| Ice Cold Professional | Works well in cold, snowstorms |
+| Weather Fragile | Falls apart when conditions not perfect |
+| Show Must Go On | Wrestles no matter what, gains fan loyalty |
+
+---
+
+## RAW CONTENT (Key Example):
+
+Suzuki 30th Anniversary Show (Rainstorm):
+- Heavy Rain: Ring dangerously slick
+- MiSu + Okada Adaptability: Fight on, modify pacing, embrace rain as epic drama
+- Crowd: 1,000 diehards in ponchos, emotionally locked in, loyalty boost
+- Result: Legendary atmosphere, minor injuries risked, major historical moment
+
+"Legendary moments come from those who wrestle through storms without blinking."
