@@ -65,3 +65,27 @@ Fans don't remember what happened. They remember what they felt, twisted through
 | **Worker scandal** | Peak minimized or erased |
 | **Generational shift** | New fans adopt simplified versions |
 | **Documentary release** | Can correct or amplify distortions |
+
+---
+
+## Commentary Behavior (Vol 6)
+
+AI-controlled commentary will:
+- **Reinforce or distort** memory based on Booker Philosophy
+- Use **Myth Language**: "That night in Tokyo when time stood still..."
+- Sometimes **contradict fans**: "People say she never tapped, but we have the footage."
+
+This builds generational and narrative friction over time.
+
+---
+
+## Summary (Canon)
+
+Fan memories:
+- Fade unevenly
+- Warp with time, ego, culture, and narrative retelling
+- Become emotional tools more than factual records
+
+SCS will simulate not just what happened... but what people **remember** happening.
+
+> And that, tovarisch, is the root of all great wrestling drama.

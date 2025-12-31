@@ -51,6 +51,31 @@ Key insight: The heel turn didn't just save the gimmick; it created an entirely 
 
 ---
 
+## Detailed Hulkamania Decay Triggers (Vol 6)
+
+| Trigger | Example | Effect |
+|---------|---------|--------|
+| **Cultural Turn** | Early 90s fans shift to edgy realism (Bret, Shawn, ECW) | Legacy stays, buzz plummets |
+| **Style Disconnect** | Hogan's WWF routine didn't match WCW in-ring trends | Booking memory devalues current matches |
+| **Promotion Repetition** | Same catchphrases, posing, no evolution | AI fans begin tagging segments as "stale" |
+| **Mismatch Booking** | Feuds with Dungeon of Doom, no emotional stakes | Fan Memory doesn't refresh, no new fuel |
+| **Workrate Gap** | Surrounded by Pillman, Benoit, Eddy, Savage | Buzz cap lowers in workrate-heavy environments |
+| **Fan Rejection** | Havoc '95 (booed out of building), steroids whispers | Pop begins active decline, crowd betrayal triggers |
+
+---
+
+## Simulation Response to Decay
+
+As triggers pile up:
+- Buzz begins decaying even while Pop stays high
+- Fan chants turn ironic or hostile
+- AI bookers split:
+  - **Traditionalists** double down ("We owe him...")
+  - **Chaos bookers** experiment (heel turn, torch pass)
+- Locker room heat begins building
+
+---
+
 ## Decay Speed Modifiers
 
 | Factor | Decay Speed |

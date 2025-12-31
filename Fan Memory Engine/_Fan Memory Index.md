@@ -22,7 +22,8 @@
 - [[Feud_Memory]] - Feud-specific memory tracking
 - [[Crowd_Memory]] - Show-level crowd memory
 - [[Gimmick System/_Gimmick System Index|Gimmick System]] - Iconic moments stored in memory
-- [[Hall of Fame/_Hall of Fame Index|Hall of Fame]] - Inductions create permanent memories
+- [[Legacy System/_Legacy System Index|Legacy System]] - Legacy score built from memories
+- [[Legacy System/Hall of Fame System|Hall of Fame]] - Inductions create permanent memories, voting affected by memory
 
 ❓ **OPEN QUESTIONS:**
 - Memory capacity limits (how many active memories per worker?)

@@ -44,6 +44,49 @@ Then: Small Popularity Gain (+0.5 to +1.5 depending on exposure)
 
 ---
 
+## Regional Pop Notes (Vol 6)
+
+- Buzz converts **per region** (where fans saw the match)
+- Touring in weak regions = Buzz helps you grow there
+- Buzz with no matches = no Pop change
+- Example: A big promo only shown online may boost Japan Pop, but not Mexico if not broadcast there
+
+---
+
+## Edge Cases (Vol 6)
+
+| Case | Outcome |
+|------|----------|
+| One-off viral Buzz (e.g. pipebomb) | +1-2 Pop spike, but fades unless followed up |
+| Title win with high Buzz | Strong +Pop conversion (especially if built well) |
+| Losing streak despite Buzz | Mixed. Sympathy tag may still grow Pop. Otherwise Buzz fades, no Pop. |
+| Buzz Crash (bad botch, flop feud) | Small Pop loss in region unless salvaged quickly |
+
+---
+
+## Summary Logic Table (Vol 6)
+
+| Buzz Rating | Buzz History | Show Impact | Pop Change |
+|-------------|--------------|-------------|------------|
+| 15+ | Sustained 4-6+ | High card | +1 to +2 |
+| 13-14 | Mixed history | Mid card | +0.5 to +1.0 |
+| 10-12 | Flatline | Any | ~0 |
+| <10 | Sustained cold | Any | -0.5 to -1 |
+
+---
+
+## Memory Integration (Vol 6)
+
+High Buzz streaks become part of [[Fan Memory Engine/_Fan Memory Index|Fan Memory]]:
+
+- Fan narrative: "That run where they tore it up week after week..."
+- Used by:
+  - [[Fan Memory Engine/Memory Snapshots|Fan Legacy System]]
+  - AI Booker ("he's on fire" logic)
+  - Historical Rankings ("Top 100 year-end buzz stars")
+
+---
+
 ## Modifiers
 
 | Factor | Effect on Buzzâ†’Pop |
@@ -52,7 +95,7 @@ Then: Small Popularity Gain (+0.5 to +1.5 depending on exposure)
 | Match Position | Main event buzz matters more |
 | Title Involvement | Buzz in title feuds converts faster |
 | Regional Saturation | Buzz converts only where the match was seen |
-| Worker Gimmick Tags | "Cult Follower Favorite" may convert slower but stronger |
+| Worker Gimmick Tags | [[Tags System/Tags_Vol6_Expansion#Cult Follower Favorite|Cult Follower Favorite]] may convert slower but stronger; see Tags_Vol6_Expansion for full mechanics |
 | AI Booker Respect | If booker buries you despite high Buzz, conversion is slower |
 
 ---

@@ -68,3 +68,38 @@ How AI bookers use fan memory for booking decisions.
 4. Fan response loop begins
 5. If hits: momentum builds, push continues
 6. If flops: push ends gently, memory may decay further
+
+---
+
+## Morale & Political Effects (Vol 6)
+
+| Context | Reaction |
+|---------|----------|
+| 📉 Worker thought they were done | Morale boost if push reignites career |
+| 👥 Others feel overlooked | Locker room tension, "He's washed!" pushback |
+| 🤝 Former rival still active | May cause resistance, creative tension, promo heat |
+| 🏛 Promotion has rich memory culture | Fans may demand nostalgia push, even if booker is skeptical |
+
+---
+
+## Real-World Parallels
+
+| Example | Memory Used |
+|---------|-------------|
+| Tenzan's final G1 run (NJPW) | Redemption + Legacy tribute |
+| Sting's AEW run | Legacy reactivation with Myth aura |
+| Kawada vs Tenryu 2000s reboots | Emotional Ghost Rivalries |
+| Bret returning in 2010 | HOF closure arc |
+| Muta's multiple farewells | Cultural reverence triggers + revenue nostalgia |
+| WWE's "Legends Night" segments | Fixer-style short-term nostalgia baiting |
+
+---
+
+## Summary (Canon)
+
+The AI Booker Nostalgia System:
+- Scans Fan Memory Snapshots
+- Reacts to Fan Sentiment + Legacy History
+- Adjusts behaviour based on Booker Philosophy
+- Creates tribute pushes, ghost rivalries, redemption arcs, or cautionary revivals
+- Makes the world feel lived in, not just "who's hot this month"

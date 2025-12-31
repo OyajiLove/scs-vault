@@ -25,6 +25,8 @@ Memory Snapshots are discrete memories created when high-emotion events occur. T
 
 ## Snapshot Triggers
 
+### General Triggers
+
 | Event Type | Emotion Required |
 |------------|------------------|
 | Title change | High (surprise or catharsis) |
@@ -34,6 +36,16 @@ Memory Snapshots are discrete memories created when high-emotion events occur. T
 | Retirement | High (closure) |
 | Death (in-universe or real) | Permanent snapshot |
 | Controversial moment | High (outrage or confusion) |
+
+### Vol 6 Trigger Categories (with Memory Weights)
+
+| Trigger Type | Description | Memory Weight |
+|--------------|-------------|---------------|
+| 🔥 **Peak Buzz + Emotional Tag** | Match or angle hits Buzz 16+ and carries tags like Catharsis, Betrayal, Redemption | High |
+| 🕊 **Career Moment** | Retirement, return from injury, breaking losing streak, unmasking, etc. | Medium-High |
+| 🩸 **Cultural Shock** | Violent match, screwjob, pipebomb, deathmatch moment | Medium |
+| ❤ **Emotional Loyalty Turn** | Betrayal or alliance that splits fanbases | High (if sustained) |
+| 🏟 **Historic Setting** | Big venue, anniversary show, famous territory | Memory Multiplier |
 
 ---
 
@@ -61,6 +73,32 @@ Memory Snapshots are discrete memories created when high-emotion events occur. T
 
 ---
 
+## Simulation Effects of Snapshots
+
+What happens when a snapshot is created:
+
+| Effect | Outcome |
+|--------|----------|
+| **Legacy Boost** | Helps Hall of Fame voting, endgame contracts |
+| **Fanbase Loyalty Surge** | Crowd sticks with them through cold periods |
+| **Pop Decay Reduction** | Their Popularity fades more slowly |
+| **AI Booker Reconsideration** | Some AI bookers give them another chance due to history |
+| **Promo Fuel** | Can be referenced in future segments ("He never forgot that night in Osaka...") |
+| **Feud Rekindling Trigger** | Used to restart old rivalries ("unfinished business") |
+
+---
+
+## System Integration
+
+| System | Connection |
+|--------|------------|
+| **[[Buzz System/_Buzz System Index\|Buzz]]** | Buzz 15-20 with emotional tag required to trigger most snapshots |
+| **[[_Fan Memory Index\|Fan Memory Engine]]** | Stores 3-10 top memories per worker depending on career length |
+| **Promotion Legacy** | Snapshot moments improve company reputation ("remember that legendary feud in 2026?") |
+| **Push Conflict Logic** | AI might say "they've cooled, but the fans still believe..." |
+
+---
+
 ## Snapshot Creation Example
 
 ```
@@ -72,6 +110,18 @@ INTENSITY: 95
 VALENCE: Positive
 TYPE: Long-term
 ```
+
+---
+
+## Fictional Worker Examples (Vol 6)
+
+| Worker Name | Snapshot Type | Tags | Long-Term Impact |
+|-------------|---------------|------|------------------|
+| **"The Hollow Saint" Sera Koizumi** | Refused to tap in 38-minute epic | Courage + Buzz 18 | Legacy-defining snapshot |
+| **"Diamond" Darren Holt** | Screwed in title match with fake ref | Betrayal + Buzz 16 | Years-long feud anchor |
+| **"Big Gun" Sal Devlin** | Moonsault in bloody deathmatch | Spectacle + Nihilism + Buzz 17 | Permanent aura boost |
+
+> "That night she refused to tap to the armbar in front of her hometown crowd — even in a loss — is still her most remembered moment."
 
 ---
 

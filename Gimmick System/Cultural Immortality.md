@@ -1,122 +1,106 @@
-# Cultural Immortality
+# Cultural Immortality System
 
-📛 **MECHANIC:** Cultural Immortality
-🔗 **PARENT SYSTEM:** [[_Gimmick System Index|Gimmick System]]
-🧭 **CATEGORY:** Worker Identity / Presentation
-🔑 **KEYWORDS:** cultural immortal, living legend, transcendent, beyond wrestling
+📛 **SYSTEM:** Cultural Immortality
+🔗 **PARENT:** [[_Gimmick System Index|Gimmick System]]
+🧭 **CATEGORY:** Worker Identity / Cultural Legacy
+🔑 **KEYWORDS:** cultural immortal, living legend, sacred gimmick, national symbol, Mil Máscaras, El Santo, Giant Baba
 📌 **ORIGIN:** Vol 6
 ✅ **STATUS:** Locked
 
 ---
 
-## Version History
-
-| Version | Volume | Changes |
-|---------|--------|--------|
-| v1.0 | Vol 6 | **LOCKED** - Cultural Immortality defined as tier beyond Iconic Lock. Criteria established (multi-generational, non-wrestling fame, symbol status). Immortal privileges codified. El Santo, Rikidōzan, André the Giant used as canonical examples |
-
-**Note:** The synthesis report mentions "Cultural Immortals (Mil Máscaras, Santo, Muta) transcend normal booking rules entirely" as core to this mechanic's purpose.
-
----
-
 ## Overview
 
-A tier beyond [[Iconic Lock]]. Cultural Immortals have transcended wrestling entirely to become permanent fixtures in broader cultural consciousness. Normal booking rules don't fully apply; they exist on a different plane.
+> "They didn't hold the Iconic Lock. They became the lock."
+
+When a gimmick becomes sacred: unchangeable, untouchable, and woven into national or stylistic identity. This is NOT about personal charisma or booking success. It's when a gimmick is intertwined with a culture, defended by the audience itself, and beyond good or bad.
 
 ---
 
-## What Makes a Cultural Immortal
+## Trigger Conditions
 
-| Criterion | Description |
-|-----------|-------------|
-| **Multi-generational recognition** | Grandparents and grandchildren both know them |
-| **Non-wrestling fame** | Known by people who've never watched wrestling |
-| **Symbol status** | Represent something beyond themselves (heroism, rebellion, etc.) |
-| **Historical permanence** | Will be remembered 50+ years after retirement |
-| **Cultural penetration** | Referenced in non-wrestling media constantly |
+All must be met for Cultural Immortal status:
 
----
-
-## Examples
-
-| Immortal | Cultural Meaning | Region |
-|----------|------------------|--------|
-| **El Santo** | Mexican national hero, religious iconography | Mexico/Global |
-| **Rikidōzan** | Japanese national pride, post-war recovery | Japan |
-| **André the Giant** | Gentle giant archetype, The Princess Bride | Global |
-| **Hulk Hogan** (peak) | American heroism, 80s optimism | USA/Global |
-| **The Rock** | Transcended to Hollywood A-list | Global |
+| Condition | Notes |
+|-----------|-------|
+| 📜 Decades of presence | 20+ years active, mostly with same persona |
+| 🎭 Unchanging Gimmick | No turns, reboots, or drastic changes (consistency IS the point) |
+| 🎌 Style Embodiment | Gimmick represents a national or stylistic tradition (lucha, puro) |
+| 🧠 Memory Anchor (multi-generational) | Grandparents + parents + children all remember them |
+| 🏳️ National Symbol Layer | Crowd sees them as cultural ambassadors, not just entertainers |
+| 🧍 No comparable successor | Nobody else has dared to claim their lane |
 
 ---
 
-## Immortal vs Iconic Lock
+## Cultural Immortal Status Effects
 
-| Aspect | Iconic Lock | Cultural Immortal |
-|--------|-------------|-------------------|
-| Decay possible? | Yes, slowly | Almost never |
-| Booking constraints? | Some protection | Barely applies |
-| Return pop? | Guaranteed | Transcendent |
-| Death effect? | Freezes legacy | Elevates to myth |
-| Fan memory? | Strong | Permanent |
+Once triggered, worker enters permanent special state:
 
----
-
-## Immortal Privileges
-
-| Privilege | Effect |
-|-----------|--------|
-| **Untouchable booking** | Cannot be buried by any booker |
-| **Automatic main event** | Any appearance is main event level |
-| **Cross-promotion draw** | Draw regardless of company |
-| **Legacy immunity** | Bad matches don't hurt legacy |
-| **Death elevation** | Passing increases cultural status |
+| Feature | Effect |
+|---------|--------|
+| Buzz Stops Being Relevant | Can have cold matches and still get standing ovations |
+| Pop Decay Turns Off | Retains regional popularity forever unless scandal |
+| Booking Memory Becomes Symbolic | Matches aren't rated emotionally, they're witnessed |
+| Match Quality Immune to Critique | Botches ignored, plodding pace reframed as gravitas |
+| Commentary Language Changes | "A legend graces us again..." even for 1-star match |
+| Feuds Are Tribute-Based | Younger wrestlers feuding for respect, not heat |
+| Retirement Optional | AI never forces them to leave; "final match" is symbolic only |
 
 ---
 
-## Achieving Immortality
+## Historical Examples
 
-Extremely rare. Requirements beyond Iconic Lock:
-
-1. Sustained Iconic Lock for 10+ years
-2. Cultural penetration beyond wrestling
-3. Symbolic meaning to broader society
-4. Multi-generational recognition
-5. Some element of tragedy, triumph, or myth
-
-Most workers never achieve this. Most Iconic Locks remain "just" iconic.
+| Worker | Identity | Cultural Meaning |
+|--------|----------|-----------------|
+| Mil Máscaras | Masked National Hero, Movie Star | Mexican pride, dignity, self-respect (never unmasked, never heel) |
+| El Santo | Holy Symbol of Lucha | Spiritual purity; treated like a saint in life and death |
+| Giant Baba | Stoic Promoter-Warrior | Embodiment of Showa-era dignity, humility, and honor |
+| Rikidōzan | Japanese Identity Builder | Post-war national symbol, protected in all historical retellings |
+| Great Muta | Occult Persona, Theater of Death | Mystical being, used sparingly in ritual arcs, never fully broken |
+| Dos Caras | Sporting Icon, Old-World Legitimacy | Respected like a patriarch, mask/style/aura preserved |
 
 ---
 
-## Connected Mechanics
+## AI Simulation Behavior
 
-- [[Iconic Lock]] - prerequisite for immortality
-- [[Immortal Feud Templates]] - special booking patterns
-- [[Hall of Fame/Legend Status Effects|HOF Induction]] - immortals often get special ceremonies
-- [[Legacy Tracker/_Legacy Tracker Index|Legacy Tracker]] - immortals have maximum legacy scores
+| System | Behavior |
+|--------|----------|
+| AI Bookers | Book for ceremony, homage, or mentor roles (never title climbs or turns) |
+| Feud Memory | All feuds are generational, not competitive ("test yourself against the icon") |
+| Fan Memory | Never decays in home region; segments archived in legacy system |
+| Legacy Score | Locked at 95-100, can no longer fall unless scandal hits |
+| Push Resistance | Doesn't apply: they don't ask to be pushed, they appear |
+| Commentary | Described as part of history, not "competing" with active roster |
+| Promotions | Use as ceremonial anchors: legends night, anniversaries, funerals, documentaries |
+
+---
+
+## Mishandling Dangers
+
+| If Mishandled... | Result |
+|------------------|--------|
+| Booked to lose clean to rising star | Massive fan backlash, legacy damage |
+| Forced heel turn or reboot | Cultural outrage, may crater promotion trust |
+| Unmasking or parody angle | Permanent crowd rejection (especially in Lucha) |
+| Critiqued by commentary | Instant credibility collapse, fans revolt on behalf of legend |
+
+Only chaos-bookers or invader promotions will ever try this, and usually get burned.
+
+---
+
+## Connected Systems
+
+- [[Iconic Lock]] - Cultural Immortality is the final evolution beyond Iconic Lock
+- [[Lock Break System]] - Cultural Immortals are nearly immune to breaks
+- [[Legacy System/_Legacy System Index|Legacy System]] - Legacy Score locked at top tier
+- [[Fan Memory Engine/_Fan Memory Index|Fan Memory Engine]] - Memory never decays
+- [[Ceremony Booking Tools]] - Primary booking context for Immortals
 
 ---
 
 ## Open Questions
 
-- Can immortality be lost? (Theoretically yes, practically almost never)
-- Regional immortality (Santo in Mexico but not Japan)?
-- Posthumous immortality achievement?
-
----
-
-## Implementation Notes
-
-```json
-{
-  "gimmick_id": "gim_santo",
-  "cultural_immortal": {
-    "status": true,
-    "immortal_since": "1965-01-01",
-    "cultural_meaning": "mexican_national_hero",
-    "recognition_scope": "global",
-    "booking_immunity": true,
-    "legacy_score": 100,
-    "decay_rate": 0
-  }
-}
-```
+- Can Cultural Immortal status ever be revoked? (Scandal threshold?)
+- How to handle posthumous Immortal status assignment?
+- Region-specific Immortal status (Immortal in Japan, not in US)?
+- Second-generation workers of Immortals: inherited status or earned?

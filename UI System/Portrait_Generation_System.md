@@ -583,6 +583,45 @@ This helps maintain consistency within character types.
 
 ---
 
+## IN-GAME AUTO-CROP SPECIFICATION (Vol 7)
+
+For hover pop-ups and face-only displays, the game dynamically crops the top portion of base renders without requiring a separate face thumbnail image.
+
+### Technical Specification
+
+| Parameter | Value |
+|-----------|-------|
+| **Canvas Size** | 1024 × 1536 px |
+| **Auto-Crop Zone** | `Rect2(0, 0, 1024, 420)` |
+| **Ideal Eye Line** | 340-400px from top (22-26% of height) |
+| **Target Eye Position** | ~360px from top (¼ down canvas) |
+
+### Artist Rule (Simple Version)
+
+> "Position the character so that their eyes are roughly 1/4 down the canvas (around the 360px mark). Keep the head centered and large enough that the face fills the top third of the frame. Don't place the face too low or too small."
+
+### Implementation (Godot)
+
+```gdscript
+var base_image = preload("res://RingstateRenders/TheClincher/base.png")
+$PopupImage.texture = base_image
+$PopupImage.region_enabled = true
+$PopupImage.region_rect = Rect2(0, 0, 1024, 420)  # Top 420px = face zone
+```
+
+### Why Static Crop (Not Face Detection)
+
+- **Instant** — no CPU drain on hover
+- **Consistent** — same framing for all workers
+- **Simple** — no OpenCV/GDNative integration needed
+- **Requires** — consistent render framing across all portraits
+
+### Folder Structure Note
+
+No separate `face_thumb.png` needed. Single `base.png` serves both full portrait and face crop contexts.
+
+---
+
 ## FUTURE ENHANCEMENTS
 
 ### Potential Additions

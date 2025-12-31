@@ -1,6 +1,6 @@
 # EXTRACTION PROGRESS TRACKER
 
-📅 **Last Updated:** 2025-12-26  
+📅 **Last Updated:** 2024-12-30  
 📋 **Methodology:** Single-pass tiny chunks (50-100 lines) → cross-reference → integrate immediately  
 🎯 **Goal:** Extract ALL concepts (locked systems, modifications, half-baked ideas, tags, examples)
 
@@ -70,10 +70,79 @@
 - 📚 **Case Studies / Examples** (worker examples, booking examples)
 - 🔢 **Formulas / Values** (any specific numbers or calculations)
 
+---
+
+## ⚠️ EXTRACTION QUALITY RULES (CRITICAL)
+
+### Rule 1: "File Exists" ≠ "Content Captured"
+**DO NOT** assume content is captured just because a Bible file with a similar name exists. You MUST:
+1. Open the existing file and READ it
+2. Verify the SPECIFIC details from the current chunk are present
+3. If details are missing → add them (expansion file or edit existing)
+4. If details conflict → note the conflict and flag for resolution
+
+**BAD:** "Buzz System already has a file, moving on"
+**GOOD:** "Buzz System file exists. Checking if edge cases table from line 27 is captured... NOT FOUND. Adding to Buzz_to_Pop_Conversion.md"
+
+### Rule 2: Half-Baked Ideas Are Sacred ("Sweet Neglected Children")
+These are the innovation seeds that make SCS special. EVERY half-baked idea must be:
+1. Captured in `Parking Lot/VolX_Half_Baked_Ideas.md`
+2. Given a seed description of what it COULD become
+3. Linked to potential parent systems
+4. Never dismissed as "too vague" or "already covered generally"
+
+**Examples of half-baked ideas to capture:**
+- "Next options" offered but not chosen (e.g., "Would you like to build X next?")
+- Tangential concepts mentioned once
+- UI mockup suggestions
+- "Could also do Y" asides
+- Anything prefixed with "optional" or "future"
+
+### Rule 3: Tags Mentioned = Tags Documented
+If a tag name appears ANYWHERE in the text, even in passing:
+1. Check if it exists in Tags System files
+2. If not → create entry in `Tags_VolX_Expansion.md`
+3. Include: name, implied category, mechanical effect (if mentioned), context where found
+
+**Catch these:**
+- Tags in example tables ("Courage + Buzz 18")
+- Tags referenced as modifiers ("Sympathy tag may still grow Pop")
+- Tags implied by mechanics ("Cult Follower Favorite converts slower")
+
+### Rule 4: Examples Are Content, Not Decoration
+Fictional worker examples, case studies, and historical models are SYSTEM CONTENT:
+1. Fictional workers → capture in relevant system file or dedicated Examples section
+2. Historical models → capture as validation/inspiration for mechanics
+3. Booking examples → capture as templates or test cases
+
+### Rule 5: Tables, Formulas, and Specific Values Are Gold
+Any table, formula, or specific number MUST be captured verbatim:
+- Buzz thresholds ("Buzz 15+ = +1-2 Pop")
+- Decay rates ("approximately -1 per 2-3 weeks")
+- Trigger conditions ("Buzz 16+ with emotional tag")
+- Timeframes ("0-6 months: Fresh")
+
+If a formula is mentioned but values aren't specified, note it in Open Questions.
+
+### Rule 6: "Next Options" Are Half-Baked Seeds
+When the text offers choices like "Would you like to: 1. Build X, 2. Design Y, 3. Create Z" and only ONE is chosen:
+- The chosen option becomes the next locked system
+- The UNCHOSEN options go to Parking Lot as half-baked ideas
+
+---
+
 **Source files:** Copy to Claude's computer first, then use `view` with line ranges  
 **Output locations:** 
-- Bible entries: `Z:\Documents\Obsidian\Lune\SCS\System Bible\[Category]\`
-- Parking Lot: `Z:\Documents\Obsidian\Lune\SCS\System Bible\Parking Lot\`
+- Bible entries (game mechanics): `Z:\Documents\Obsidian\Lune\SCS\System Bible\[Category]\`
+- Parking Lot (half-baked ideas): `Z:\Documents\Obsidian\Lune\SCS\System Bible\Parking Lot\`
+- **Ringstate content (worldbuilding):** `Z:\Documents\Obsidian\Lune\SCS\Ringstate\`
+  - Character Profiles: `Ringstate\Character Profiles\`
+  - Promotions: `Ringstate\Promotions\`
+  - World (general lore, history, regions, eras): `Ringstate\World\`
+  - Factions: `Ringstate\Ringstate_Factions.md`
+  - World Index: `Ringstate\_Ringstate Index.md`
+
+**IMPORTANT:** Ringstate = default world/lore (characters, promotions, factions, history). System Bible = game mechanics. Keep them separate.
 
 **Tool reminder:** Use lowercase `filesystem:` tools for Obsidian vault. Copy source files to Claude's computer via `Filesystem:copy_file_user_to_claude` then use `view` tool.
 
@@ -498,12 +567,12 @@
 ### VOL 6
 | Status | Source File | Line Position | Notes |
 |--------|-------------|---------------|-------|
-| ❌ | `SCS Vol. 6.txt` | Line 0 | NOT STARTED - HOF, Gimmick, Crowd Signals expected |
+| ✅ | `SCS Vol. 6.txt` (858 lines) | COMPLETE | Lines 1-858 extracted. **BLADE UNDERGROUND** alliance locked. LGBTQW+ official name locked. Ember Sage character. SNL expanded. Lines 651-848 = AI art workflow (no content). Lines 849-857 = CCA politics + Quinn/Vale mentor arc (half-baked). **153 half-baked ideas total.** |
 
 ### VOL 7
 | Status | Source File | Line Position | Notes |
 |--------|-------------|---------------|-------|
-| ❌ | `SCS Vol. 7.txt` | Line 0 | NOT STARTED - Promo Response expected |
+| 🔄 | `SCS Vol. 7.txt` (420 lines) | Line 225 | IN PROGRESS - USA territory restructure, Emerald Pro Wrestling, Pretty Ricky Dale full stats |
 
 ### VOL 8
 | Status | Source File | Line Position | Notes |
@@ -546,6 +615,27 @@
 
 | Date | Work Done |
 |------|-----------|
+| 2024-12-30 | **Vol 7 lines 201-225:** **MAJOR USA TERRITORY RESTRUCTURE.** CCA hierarchy clarified: 4 Pillars (Georgia, SSW/Florida, Charlotte, St. Louis) + 3 Support (Memphis, LORW, Dixie). GWA Big Three: EWE, TCW, + NEW **Emerald Pro Wrestling** (hollowed-out PNW). Texas confirmed as 4-way warzone. **Pretty Ricky Dale** full stats + hidden personality locked (Psy 18, Cha 19, Ego 18). Kojo Mensah updated (Dwennimmen only). Rio Bravo Lucha Libre (RBLL) confirmed. 4 half-baked (#35-38). |
+| 2024-12-30 | **Vol 7 lines 176-200:** **Pretty Ricky Dale** stats expansion (Cha 18, Psy 17, full tags). 4 NEW CHARACTERS: **"The Firecracker" Bobby Wicks** (Dundee analogue, 34, says "Jack"), **Scazz Bogan** (sleaze heel, 36, says "baby", Pink Cadillac gimmick), **Setsuki** (Yuki-onna kohai to Kageshiro), **"Iron Lion" Kojo Mensah** (PWU West Africa ace, Sokoudjou-inspired). **NEW SYSTEM: Multi-Image Worker Profiles** (provisional lock). 5 half-baked (#30-34). |
+| 2024-12-30 | **Vol 7 lines 151-175:** 6 NEW/UPDATED CHARACTERS. **Volcán Negro** (LLA top rudo, REAL monster). **Magmageddon REVISED** (comedic gimmick disaster, Terry Pritchard 42). **Mudslide** (tag partner, Bucky Deal 36). **Ember Sage** updated (they/them two-spirit, Grizzlies-style formline trim, new stats). **Kageshiro** (she/they ethereal Eiko Ishibashi-inspired floater). **"Pretty" Ricky Dale** (Lawler analogue, MWA owner-booker, 37). 6 half-baked (#24-29). |
+| 2024-12-30 | **Vol 7 lines 126-150:** Dani Everest age timeline (19→24→29→31) + refined "gorgeous but grounded" render. **USA PROMOTIONS MASTER LIST** created (CCA 10 feds, GWA 5 feds, Queer 5+, Unaligned 7). **SOUTH SHORE WRESTLING** promotion + 4 NEW CHARACTERS: Johnny Caulfield (booker, 49), Calvin Caulfield (son, 24), "Boom Boom" Bobby Dale (fan-fave, 38), West Mercer (Magnum analogue, 27). 4 half-baked (#20-23). |
+| 2024-12-30 | **Vol 7 lines 101-125:** LoRA Folder System LOCKED (mod-friendly structure). Settings Panel finalized (8 options). High-End User Bypass (skip prebuilt bank). Developer Debug Mode. **CHARACTER RENDER PROMPTS:** Don Sangre (2 variants: in-ring, blood shroud), Lonnie Shy (2 variants: in-ring, entrance + aviators), Dani Everest (1 variant). **FINISHERS:** Lonnie Shy (Shadow Sentence, Sixth Silence), Dani Everest (The Gravity Well). 2 half-baked (#18-19). |
+| 2024-12-30 | **Vol 7 lines 76-100:** Newgen Portrait System MAJOR EXPANSION. Reverse Flow Generation LOCKED (image drives bio). Render Tag Schema LOCKED (8 tag types). MVP Library: 150-300 renders. **NO MICROTRANSACTIONS** (local SD + LoRA only). 6 LoRA styles (Ringstate/Comic/Anime/Semi-Realistic/Photorealistic/Legacy). 3-step architecture (Bank → Regenerate → Tuning UI). Anti-cheat measures. 3 half-baked (#15-17). |
+| 2024-12-30 | **Vol 7 lines 51-75:** USA Cultural Memory Types table (4 regions). GAW vs CCA Cold War dynamics. Esther Carmichael ORIGIN STORY (fan→steward, 1976 Haskell death, board takeover). **NEW SYSTEM: Newgen Portrait System** (auto-assign, no free pic hell, art bank 500-2000). 4 half-baked (#11-14). |
+| 2024-12-30 | **Vol 7 lines 26-50:** 4 NEW CHARACTERS (Kuroshiro, Caveman Crush, Mickey Wild, Zumbi de Coragem). 2 NEW PROMOTIONS (Titanes Globales/Argentina, Série Verdade/Brazil). USA unified map confirmed (WCS, Northshore Real). Capoeira Hybrid tag. Childhood Myth buzz type. 3 half-baked to Parking Lot (#8-10). |
+| 2024-12-30 | **Vol 7 lines 1-25:** Meta discussion (Vol 7 roadmap options), masked veteran character workshop (The Clincher zone names), Portrait Auto-Crop Specification LOCKED (1024x1536 canvas, eye line at 22-26%, crop zone 420px). 7 half-baked ideas to Parking Lot. Portrait_Generation_System.md updated with auto-crop spec. |
+| 2024-12-30 | **CLEANUP:** Added Visual Reference sections to 10 character profiles (Ivan Spiridonov, Kazimir Volodin, Don Sangre, Lonnie Shy, Ash Morrow, Parviz Ghaffari, Dani Everest, Esther Carmichael, Clint Hatcher). Created Kealani.md profile (visual only, character TBD). |
+| 2024-12-30 | **VOL 6 COMPLETE.** Lines 651-858: Lines 651-848 = AI art workflow (Kohya, ComfyUI, LoRA training) - NO extractable content. Lines 849-857 = CCA internal politics, Tyrell Quinn + Victor Vale character seeds, mentor-protégé meltdown arc - all HALF-BAKED (discussion with reverts). 5 new half-baked ideas (#149-153). **Vol 6 total: 153 half-baked ideas.** |
+| 2024-12-30 | Vol 6 lines 626-650: **BLADE UNDERGROUND, LGBTQW+, EMBER SAGE**. Blade Underground alliance LOCKED (anti-CCA/GWA, mutual respect with CFPW/LGBTQW+). Member feds: SNL, IJP, TBD Japanese outlaw. LGBTQW+ official name locked. NEW CHARACTER: Ember Sage (two-spirit Indigenous wrestler, crossover between CFPW/LGBTQW+/Blade Underground, full stats). SNL EXPANDED: roster archetypes (washed-up tecnicos, border brawlers, barefoot strikers, narcopolitical heel faction), booking themes (no angles just beef, matches titled after poems/crimes), signature match type **El Reloj de Sangre** (Blood Clock). NEW FILES (3): Blade Underground.md, LGBTQW+.md, Ember Sage.md. UPDATED: Sangre Nueva Lucha.md. 8 new half-baked ideas (#141-148). |
+| 2024-12-30 | Vol 6 lines 501-625: **GIMMICK DRIFT, TONE TAGS, PRODUCTION, GLOBAL REGIONS** (MASSIVE). Systems: Gimmick Drift clarified (tone reframing not penalty), Promotion Tone Tags (hidden personality per fed), 1985 Production Toolkit (camera/lighting/media period-locked). TEXAS WARZONE (4 feds: LSLW/CCA, MPW/GWA, RPW/Independent, Rio Bravo Lucha Libre/CFPW-curious). INDIA: Akhara Ring Wrestling (PWU, pehlwani-inspired). USSR: Red Banner Wrestling (sambo-heavy, submissions finish). 3 NEW CHARACTERS: Ivan Spiridonov (Karelin-type, 3x Olympic Gold, undefeated, Spiridonov Spiral finisher), Kazimir "Volk" Volodin (Volk Han-type, 0-2 vs Spiridonov), Jin-tae Kim (Bridge Line hero, lost to Spiridonov at Red Sanction 1985). MENA REGION (6 feds): GCW (Saudi/UAE GWA), Ashura Pro (Iran PWU), Lion's Path (Palestine PWU), Red Desert (Yemen PWU), SZW (Israel GWA), HOTL (Egypt neutral). Parviz Ghaffari character. SUB-SAHARAN AFRICA: Ghana/Congo/Burkina Faso (PWU), Cameroon "Leopard King" (CCA), Lagos Throne Pro (GWA), Echo Line Wrestling (CFPW), People's Fire Wrestling (CFPW, name under review). MEXICO: Sangre Nueva Lucha (outlaw, Blade Underground recommended, working with IJP). **CFPW NAME LOCKED** (Confederation of First Peoples Wrestling). Name conflict: RBW = Red Banner Wrestling (USSR) vs Rio Bravo (Texas, renamed to RBLL). NEW FOLDERS: System Bible/Booking, System Bible/World. NEW FILES (14): Texas Region.md, Akhara Ring Wrestling.md, Red Banner Wrestling.md, Ivan Spiridonov.md, Kazimir Volodin.md, Jin-tae Kim.md, Middle East North Africa.md, Parviz Ghaffari.md, Sub-Saharan Africa.md, Sangre Nueva Lucha.md, Promotion Tone Tags.md, 1985 Production Toolkit.md. 25 new half-baked ideas (#116-140). |
+| 2024-12-30 | Vol 6 lines 451-500: **USA INDIES, ESTHER, CLINT, BIO GENERATOR** (MASSIVE). 4 USA promotions: Iron Jaw Pro (NYC basement/bar, Sandman-type home), Midwest Ember Wrestling (women's startup, CFPW/Queer-friendly), Saint Louis Crown Alliance (CCA pillar), Cross Roads Lucha (Mexico-USA border, Valenzuela family). 2 NEW CHARACTERS: Esther Carmichael (St. Louis CCA gatekeeper, smiling racism, Marge Schott-type), Clint Hatcher (Voice of the Heartland, best PBP in capitalist bloc, subtle racism via commentary, signature calls). **NEW SYSTEM:** Worker Bio Generator (Smart Bios with 5 sections: Public Profile, Career Arc, Commentary Tone, Flaws/Faultlines, Edit Hooks). Alliance Alignment Snapshot table. Gimmick Drift noted (Stone Cold example). NEW FOLDER: `System Bible/UI and Display/`. NEW FILES (6): Iron Jaw Pro.md, Midwest Ember Wrestling.md, Saint Louis Crown Alliance.md, Cross Roads Lucha.md, Esther Carmichael.md, Clint Hatcher.md, Worker Bio Generator.md. 15 new half-baked ideas (#101-115). |
+| 2024-12-30 | Vol 6 lines 426-450: **DANI EXPANDED, QUEER ALLIANCE, BRIDGE LINE, PWU TENSION** (MASSIVE). Dani Everest expanded as "Roving Pillar" of CFPW (travels like Andre). CFPW 8 seed feds locked (Coast Salish Wrestling Circle, Sacred Stride Wrestling, Lucha de los Ríos, Dreaming Line Combat, Mat of the Snow Ancestors, Northern Roads Pro, Cuatlicue's Temple, Red Earth Revival). **QUEER PROMOTIONS ALLIANCE** created (6 feds: GLAM!, Concrete Roses, Sugarhold Pro, Wound Theory Wrestling, Velvet Warlock Circuit, Midnight Chainlink). 5 queer worker archetypes. **BRIDGE LINE PRO** created (Unified Korea, One Country Two Systems, PWU member). PWU internal tension expanded (Bridge Makers vs Hardliners). Commentary as Booking Consequence Layer noted as system mechanic. Jalen/Dani parallel arcs (1987 return). NEW FILES (2): Queer Promotions Alliance.md, Bridge Line Pro.md. UPDATED: TIWC.md (8 seed feds), PWU.md (faction tension), Dani Everest.md (Roving Pillar). 15 new half-baked ideas (#86-100). |
+| 2024-12-30 | Vol 6 lines 401-425: **JAPAN, MEXICO, CARIBBEAN, TIWC** (MASSIVE). Japan 6 major promos (IPWA/SVW/FRF/AFR/QHW/NSP) + minors (WRP, Rising Flower Pro future). Mexico (CMLT vs RLL). Caribbean (Puerto Rico CCA vs Cuba PWU, violence dynamics). TIWC (Turtle Islands Wrestling Confederation) — Indigenous third path, relational structure, consent-based booking. Schism details expanded (1983 GWA formation, 1983-1985 fallout, war today). NEW CHARACTERS (2): Dani Everest (The Pilgrim, women's star found different path), Jalen Rain (The Departed Meteor, noble savage gimmick eroding soul). NEW FILES (6): Japan.md, Mexico.md, Caribbean.md, TIWC.md, Dani Everest.md, Jalen Rain.md. 17 new half-baked ideas (#69-85). |
+| 2024-12-30 | Vol 6 lines 376-400: **RINGSTATE WORLDBUILDING** (MASSIVE). 1985 timeframe LOCKED. Dual Syndicate System: CCA (traditionalist Southern) vs GWA (expansionist Coasts) vs PWU (socialist bloc). The Schism (1982-83) history. Regional Breakdown (all territories). Political alignments (Brazil socialist, Argentina fascist, USSR strong, China strong, Quebec socialist lean). Deathmatch scene emerging Japan. Cold War dynamics. Midwest contested battleground. System hooks for geopolitical triggers. NEW FILES (6): World Overview, The Schism, CCA, GWA, PWU, Regional Breakdown → all in `Ringstate/World/`. 10 new half-baked ideas (#59-68). |
+| 2024-12-30 | Vol 6 lines 76-100: **GIMMICK SYSTEM EXPANSION** - Iconic Lock mechanics (triggers, endurance state, AI handling), Hulkamania decay case study (1984-1996), Lock Break System Part 2 (creative subversion, Bash at Beach 1996 canonical), simulation variables. UPDATED: Hall of Fame System (Meltzer HOF as canonical source). NEW HALF-BAKED (#14-21): HOF Rejection/Politics, Fan & Media Reaction Engine, Gimmick Memory + Legacy Hooks, Gimmick Conflict/Cannibalization, Gimmick Adaptation by Region, Merchandise Layer, AI Nostalgia Risk Curve, Fan Chants/Signal System. |
+| 2024-12-30 | Vol 6 lines 51-75: **NEW SYSTEM FOLDER: Legacy System** with 4 files (_Legacy System Index.md, Legacy Tracker.md, Hall of Fame System.md, Legend Status Tiers.md). Legacy Score 1-100 scale (Immortal/Iconic/Respected/Cult/Forgotten/Erased). HOF voting system with 7 voter personality types. Legend/Myth status tiers. UPDATED: AI Nostalgia Behavior.md (added Morale/Political Effects table, Real-World Parallels table, Canon Summary). Memory Misremembering.md (added Commentary Behavior section, Canon Summary). Fan Memory Index.md (fixed Hall of Fame link, added Legacy System connection). NEW HALF-BAKED: Push Conflict System (mentioned 3x, VERY HIGH priority), Worker Promos Rewrite Memory, AI Commentary Logic for Legacy. |
+| 2024-12-30 | Vol 6 lines 26-50: Buzz→Pop Edge Cases + Summary Logic (added to Buzz_to_Pop_Conversion.md). Fan Memory Snapshots expanded (Vol 6 triggers, effects, fictional examples). AI Nostalgia Behavior System verified (already complete). NEW TAGS: Catharsis, Betrayal, Redemption, Sympathy, Courage, Spectacle, Nihilism, Homegrown Hero (added to Tags_Vol6_Expansion.md). NEW HALF-BAKED: Pop Decay Curves, Memory Decay with Traits, Critical Reevaluation Engine, Career Memory Highlights UI, Fan Campaign Tags. |
+| 2024-12-30 | Vol 6 lines 1-25: Booking Trails & Buzz System review (mostly captured in Vol 5). NEW FILES: Vol6_Half_Baked_Ideas.md (5 half-baked ideas: Buzz Memory Tracker, Buzz-to-Push Converter, Buzz Readout UI, Buzz-Driven Push Tiers, Mock Trail Planning Screen UI). Tags_Vol6_Expansion.md created with Cult Follower Favorite tag. Updated Buzz to Pop Conversion.md with tag reference. ALSO: Added "⚠️ EXTRACTION QUALITY RULES" section to tracker (6 rules for future sessions). |
 | 2024-12-28 | Vol 5 lines 936-960: Worker Political War System NEW (5 power sources, 5 stages, HBK/Hogan/Kliq examples). Booking Shields & Glass Cannons NEW (shield factors, glass cannon profiles, Ryder/Bryan examples). Living Feud Memory System NEW (4 types, created Memory Systems directory). Worker-Title Emotional Bond System NEW (bond formation, false kings). Swerve/Hangman case study starting. |
 | 2024-12-28 | Vol 5 lines 911-935: Booking Memory Pressure System NEW (6 sources, AI behavior, player experience). Soul Settings System NEW (3 modes: Full/Partial/No Soul, 6 optional sliders). Worker Personal Vendetta System NEW (5 triggers, personality effects, 5 manifestation stages, Bret/Shawn example). Worker Political War System starting next chunk. |
 | 2024-12-28 | Vol 5 lines 886-910: Sympathy Shelf Life System NEW (targeting, decay, breaking points, worker autonomy, Matt Jackson meme example). Career Resurgence System NEW (5 paths, requirements, resurgence rolls, Naito/Liger/Suzuki/Funk examples). Late Career Adaptive Curve LOCKED (Drive + Adaptability). Booking Memory Pressure started, continues next chunk. |

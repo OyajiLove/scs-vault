@@ -113,6 +113,81 @@ Special booking patterns for feuds involving [[Cultural Immortality|Cultural Imm
 
 ---
 
+## Cultural Immortal Feud Templates (Vol 6)
+
+Not every rivalry is about hate. Some are about legacy, reverence... or proving you belong.
+
+These feuds operate differently from typical angles:
+- No betrayals
+- No "heat"
+- No title chase
+
+Instead, they're about **spiritual inheritance**, **respect**, or **shaking the heavens to test your soul**.
+
+### Vol 6 Template 1: Prove Yourself Feud
+
+| Element | Description |
+|---------|-------------|
+| **Setup** | Rising star openly challenges immortal. No heel heat, just ambition. |
+| **Tone** | Reverent but assertive |
+| **Stakes** | Not a title. Recognition. |
+| **Match Outcome** | Usually respectful loss for challenger. Can end in draw or surprise win if star is fully ready. |
+| **Post-Match** | If challenger impressed, immortal may acknowledge them. Memory anchor created. |
+
+### Vol 6 Template 2: The Spiritual Succession
+
+| Element | Description |
+|---------|-------------|
+| **Setup** | Immortal handpicks their successor. Not a feud, a blessing. |
+| **Tone** | Sacred. "I see myself in you." |
+| **Stakes** | The right to carry the legacy forward |
+| **Match Outcome** | Symbolic, not competitive. May involve tag match, not singles. |
+| **Post-Match** | Mask passed, move inherited, commentary calls them "the next." |
+
+### Vol 6 Template 3: One Final Test
+
+| Element | Description |
+|---------|-------------|
+| **Setup** | Immortal issues one last challenge: who can survive their final trial? |
+| **Tone** | Epic, career-capping |
+| **Stakes** | The right to say "I wrestled them at their end" |
+| **Match Outcome** | Often a clean immortal win. But the young worker's effort is canonized. |
+| **Post-Match** | Both elevated. Retirement window opens for immortal. |
+
+### Vol 6 Template 4: The Challenge Denied
+
+| Element | Description |
+|---------|-------------|
+| **Setup** | A disrespectful star demands a match. Immortal refuses. |
+| **Tone** | Humiliation for the challenger. Silent power from the immortal. |
+| **Stakes** | Will the challenge ever be accepted? |
+| **Match Outcome** | May never happen. If it does, immortal wins clean. |
+| **Post-Match** | Challenger either learns humility... or doubles down (heat with fans, not immortal). |
+
+### Vol 6 Template 5: Passing of the Flame
+
+| Element | Description |
+|---------|-------------|
+| **Setup** | Immortal loses to someone they approve of. Intentional. |
+| **Tone** | Bittersweet. "It was always going to be you." |
+| **Stakes** | Legitimacy transfer. The torch literally passes. |
+| **Match Outcome** | Clean loss, immortal sells it like death. |
+| **Post-Match** | Embrace, tears, commentary shifts narrative: "A new era begins tonight." |
+
+---
+
+## Usage Notes (Vol 6)
+
+- These feuds are **rare**
+- Cooldown timers apply: one Final Test per year max per promotion
+- Immortals must **agree** (AI workers with high Ego or Traditionalism may refuse based on prior disrespect)
+- Player-controlled Immortals can set **"Final Gate Conditions"**: who may challenge them and when
+
+> They don't feud to win. They feud to pass on the flame.
+> These are the moments that build legacies for two souls at once.
+
+---
+
 ## Implementation Notes
 
 ```json

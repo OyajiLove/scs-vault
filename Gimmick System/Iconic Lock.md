@@ -64,6 +64,77 @@ All conditions must be met. Partial achievement = "Near-Iconic" status.
 
 ---
 
+## Perma-Over Gimmicks: The Immune Class (Vol 6)
+
+Some gimmicks resist the standard burnout curve. They remain over, sometimes for decades, despite repetition, minimal evolution, or even cultural backlash.
+
+> "You can't teach charisma, and you can't kill magic if the crowd's still chanting."
+
+### Immune Class Triggers
+
+| Trigger | Description |
+|---------|-------------|
+| 🌍 **Cultural Saturation** | Gimmick recognized outside wrestling context |
+| 🏛 **Legacy Tie-In** | Connected to promotion's defining moments |
+| ⚖ **Symbolic Role** | Represents something larger (era, movement, fanbase) |
+| 💰 **Commercial Lock-In** | Merch still sells, sponsors still want them |
+| 🧠 **Memory Density** | Multiple Fan Memory Snapshots reinforce identity |
+
+---
+
+## Gimmick Endurance State: "Iconic Lock" Effects
+
+Once triggered, the gimmick enters this protected state:
+
+| Effect | Outcome |
+|--------|----------|
+| 📉 **Buzz decay slows dramatically** | Worker can coast without innovating |
+| 📈 **Pop floor rises** | Even bad years don't kill fanbase |
+| ⏸ **Burnout curve freezes mid-stage** | No sharp falloff unless scandal or forced heel turn |
+| 🎤 **Commentary mythologizes the gimmick** | "He's not who he was... but listen to this place!" |
+| 🧠 **Fan Memory reinforces in segments** | AI commentary references classic moments every time |
+| ⚠ **Political risk increases backstage** | Other workers may resent the sacred cow |
+| 🤖 **AI Bookers treat it differently** | Even chaotic bookers hesitate to break the myth without cause |
+
+---
+
+## Gimmick Longevity Examples (Vol 6)
+
+| Worker | Gimmick | Longevity |
+|--------|---------|------------|
+| Hulk Hogan | Hulkamania | 1984-2002 (then reinvented as nostalgia act) |
+| Mil Máscaras | "Living Mask God" | Untouchable for 40+ years |
+| John Cena | Never Give Up / Face of Company | Over with kids + merch even after adult backlash |
+| The Undertaker | Deadman Persona | Stopped being reinvented after 2005, still lasted another 15 years |
+| Great Muta | Semi-mythical occult assassin | Protected even when aging out |
+
+---
+
+## AI Handling of Iconic Gimmicks (Vol 6)
+
+| Booker Style | Behavior |
+|--------------|----------|
+| **Traditionalist** | Honors it, protects booking, gives ceremonial spot |
+| **Heat Merchant** | Might use the gimmick's overness to fuel betrayal or scandal |
+| **Chaos Booker** | Tries to kill it, but faces risk of fan revolt |
+| **Star Maker** | Books "passing torch" angles, only if crowd accepts new heir |
+| **Purist / Realist** | Resists overexposure, may try to evolve the gimmick (often fails) |
+
+---
+
+## When Iconic Gimmicks Collapse (Vol 6)
+
+| Trigger | Collapse Risk |
+|---------|---------------|
+| **Scandal** | High, fans can turn instantly if betrayal is personal or ideological |
+| **Misused Heel Turn** | Medium, if it violates emotional contract (see: heel Cena fantasy booking) |
+| **Forced Repackage** | High, gimmick inertia works both ways (audience rejects it outright) |
+| **Identity Theft** (new wrestler mimics it) | Medium, may expose original or hurt both |
+
+These collapses become memory events and affect the promotion's cultural stability.
+
+---
+
 ## Near-Iconic Status
 
 Workers who approach but don't fully achieve lock:
